@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:dark.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:red_tint.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE001"]
+        }
+    ]
+}

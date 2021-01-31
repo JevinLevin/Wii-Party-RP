@@ -1,0 +1,62 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "minecraft:item/dice_t1/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "minecraft:item/dice_t2/6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/dice_t3/3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "minecraft:item/dice_t4/2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "minecraft:item/4shoot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "minecraft:item/4left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "minecraft:item/4right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "minecraft:item/6whip"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "minecraft:item/8knife"
+        }
+    ]
+}

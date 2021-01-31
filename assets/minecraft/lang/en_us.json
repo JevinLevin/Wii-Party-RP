@@ -1,0 +1,29 @@
+{
+    "game.GoalGetters": "\n§l§nGoal Getters§r   \n\n§7§lHow To Play:§r   \n§7Balls of different sizes will be flung at you.   \nMake sure you kick/punch the ball into the goal.   \nThe player with the most goals wins!",
+
+    "game.DiceyDescent": "\n§l§nDicey Descent§r   \n\n§7§lHow To Play:§r   \n§7Choose a side to fall through   \nOne side will be bad   \nMake sure to choose the least bad sides to win!",
+    "game.DiceyDescent.ChooseSide": "Choose a side!",
+    "game.DiceyDescent.OnSideA": "You are on the ",
+    "game.DiceyDescent.OnSideB": " side!",
+
+    "generic.Placement": "\n§l§nFinal Standings!\n",
+
+    "generic.Finish": "FINISH!",
+    "generic.Ready": "Ready?",
+
+    "generic.Red": "Red",
+    "generic.Blue": "Blue",
+    "generic.RedCap": "RED",
+    "generic.BlueCap": "BLUE",
+
+
+    "deathMessages.DiceyDescent1": " experienced electricity",
+    "deathMessages.DiceyDescent2": " was too good of a conducter!",
+    "deathMessages.DiceyDescent3": " was §oshocked§r §7at how good this map is...",
+    "deathMessages.DiceyDescent4": " became fully charged!",
+    "deathMessages.DiceyDescent5a": "Avoid touching ",
+    "deathMessages.DiceyDescent5b": "!",
+    "deathMessages.DiceyDescent6": " should not try enter the lottery...",
+    "deathMessages.DiceyDescent7": " was very unlucky...",
+    "deathMessages.DiceyDescent8": " was disintegrated!"
+}

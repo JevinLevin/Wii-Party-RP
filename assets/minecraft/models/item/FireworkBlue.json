@@ -1,0 +1,74 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "FireworkBottomSides",
+		"1": "FireworkBottomBottom",
+		"4": "FireworkGrey",
+		"6": "FireworkBlue",
+		"particle": "item/FireworkBottomSides"
+	},
+	"elements": [
+		{
+			"from": [5, 29, 5],
+			"to": [11, 30, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 37, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 9, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 8.5, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 9, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 8.5, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 9, 9], "texture": "#4"},
+				"down": {"uv": [0, 0, 9, 8.5], "texture": "#4"}
+			}
+		},
+		{
+			"from": [5, 4, 5],
+			"to": [11, 29, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 12, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 9, 16], "texture": "#6"},
+				"east": {"uv": [0, 0, 8.5, 16], "texture": "#6"},
+				"south": {"uv": [0, 0, 9, 16], "texture": "#6"},
+				"west": {"uv": [0, 0, 8.5, 16], "texture": "#6"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#6"},
+				"down": {"uv": [0, 0, 9, 8.5], "texture": "#6"}
+			}
+		},
+		{
+			"from": [3, 0, 3],
+			"to": [13, 4, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 8, 12.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 7, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 7, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 7, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6.5, -2, -4]
+		}
+	},
+	"groups": [
+		{
+			"name": "Top",
+			"origin": [8, 8, 8],
+			"children": [0]
+		},
+		{
+			"name": "Middle",
+			"origin": [8, 8, 8],
+			"children": [1]
+		},
+		{
+			"name": "Bottom",
+			"origin": [8, 8, 8],
+			"children": [2]
+		}
+	]
+}
