@@ -13,6 +13,13 @@
             "ascent": 128,
             "height": 256,
             "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:blank.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE002"]
         }
     ]
 }

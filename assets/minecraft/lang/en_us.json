@@ -4,7 +4,7 @@
     "game.DiceyDescent": "\n§l§nDicey Descent§r   \n\n§7§lHow To Play:§r   \n§7Choose a side to fall through   \nOne side will be bad   \nMake sure to choose the least bad sides to win!",
     "game.DiceyDescent.ChooseSide": "Choose a side!",
     "game.DiceyDescent.OnSideA": "You are on the ",
-    "game.DiceyDescent.OnSideB": " side!",
+    "game.DiceyDescent.OnSideB": " side.",
 
     "generic.Placement": "\n§l§nFinal Standings!\n",
 
@@ -15,10 +15,6 @@
     "generic.Blue": "Blue",
     "generic.RedCap": "RED",
     "generic.BlueCap": "BLUE",
-
-    "generic.Test": "Test",
-    "generic.Test2": "Test2",
-
 
     "deathMessages.DiceyDescent1": " experienced electricity",
     "deathMessages.DiceyDescent2": " was too good of a conducter!",
