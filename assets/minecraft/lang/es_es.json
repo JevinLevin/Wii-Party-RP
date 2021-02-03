@@ -1,0 +1,31 @@
+{
+    "game.GoalGetters": "\n§l§nGoal Getters§r   \n\n§7§lCómo jugar:§r   \n§7Se lanzarán bolas de distintos tamaños hacia ti.   \nIntenta chutar/pegarle a la bola hacia la portería.   \nEl jugador con más goles gana!",
+
+    "game.DiceyDescent": "\n§l§nDicey Descent§r   \n\n§7§lCómo jugar:§r   \n§7Elige un lado para caer.   \nUno de los lados será malo.   \nIntenta caer por el lado bueno el mayor número de veces para ganar!",
+    "game.DiceyDescent.ChooseSide": "Elige un lado",
+    "game.DiceyDescent.OnSideA": "Estás en el lado ",
+    "game.DiceyDescent.OnSideB": ".",
+
+    "generic.Placement": "\n§l§nResultados!\n",
+
+    "generic.Finish": "FIN!",
+    "generic.Ready": "Listo?",
+
+    "generic.Red": "Rojo",
+    "generic.Blue": "Azul",
+    "generic.RedCap": "ROJO",
+    "generic.BlueCap": "AZUL",
+
+    "deathMessages.DiceyDescent1": " experimentó la electricidad",
+    "deathMessages.DiceyDescent2": " fue un conductor demasiado bueno!",
+    "deathMessages.DiceyDescent3": " estaba §oen shock§r §7de lo bueno que es este mapa...",
+    "deathMessages.DiceyDescent4": " se cargó del todo!",
+    "deathMessages.DiceyDescent5a": "Evitad tocar a ",
+    "deathMessages.DiceyDescent5b": "!",
+    "deathMessages.DiceyDescent6": " no debería comprar la lotería...",
+    "deathMessages.DiceyDescent7": " tuvo mala suerte...",
+    "deathMessages.DiceyDescent8": " se desintegró!",
+
+    "To play this map you must enable the resoucepack. ": "%s",
+    "[DOWNLOAD]": "%s"
+}

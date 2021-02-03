@@ -1,10 +1,36 @@
 {
     "game.GoalGetters": "\n§l§nGoal Getters§r   \n\n§7§lHow To Play:§r   \n§7Balls of different sizes will be flung at you.   \nMake sure you kick/punch the ball into the goal.   \nThe player with the most goals wins!",
 
+
+
     "game.DiceyDescent": "\n§l§nDicey Descent§r   \n\n§7§lHow To Play:§r   \n§7Choose a side to fall through   \nOne side will be bad   \nMake sure to choose the least bad sides to win!",
     "game.DiceyDescent.ChooseSide": "Choose a side!",
     "game.DiceyDescent.OnSideA": "You are on the ",
     "game.DiceyDescent.OnSideB": " side.",
+
+
+
+    "game.ZombieTag": "\n§l§nZombie Tag§r   \n\n§7§lHow To Play:§r   \n§7Avoid the zombies touching you   \nIf a zombie attacks you, you will turn into a zombie too   \nLast player standing wins",
+
+    "game.ZombieTag.Infected": "You have been infected!",
+
+    "game.ZombieTag.HereLies": "Here Lies",
+
+    "game.ZombieTag.EnterTheGraveyard": "Enter the graveyard!",
+
+    "game.ZombieTag.NameHead": "Zombie Mask",
+    "game.ZombieTag.NameChest": "Zombie Jumper",
+    "game.ZombieTag.NameLegs": "Zombie Pants",
+    "game.ZombieTag.NameFeet": "Zombie Shoes",
+
+    "game.ZombieTag.LoreHead": "You don't wanna know what's underneath",
+    "game.ZombieTag.LoreChest": "Smells terrible",
+    "game.ZombieTag.LoreLegs": "Smells even worse",
+    "game.ZombieTag.LoreFeet": "Definitely the worst smelling",
+
+
+
+
 
     "generic.Placement": "\n§l§nFinal Standings!\n",
 
@@ -16,6 +42,10 @@
     "generic.RedCap": "RED",
     "generic.BlueCap": "BLUE",
 
+
+
+
+
     "deathMessages.DiceyDescent1": " experienced electricity",
     "deathMessages.DiceyDescent2": " was too good of a conducter!",
     "deathMessages.DiceyDescent3": " was §oshocked§r §7at how good this map is...",
@@ -24,5 +54,12 @@
     "deathMessages.DiceyDescent5b": "!",
     "deathMessages.DiceyDescent6": " should not try enter the lottery...",
     "deathMessages.DiceyDescent7": " was very unlucky...",
-    "deathMessages.DiceyDescent8": " was disintegrated!"
+    "deathMessages.DiceyDescent8": " was disintegrated!",
+
+
+
+
+
+    "To play this map you must enable the resoucepack. ": "%s",
+    "[DOWNLOAD]": "%s"
 }
