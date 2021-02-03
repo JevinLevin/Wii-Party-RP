@@ -42,6 +42,11 @@
     "generic.RedCap": "RED",
     "generic.BlueCap": "BLUE",
 
+    "generic.First": "\n1st: ",
+    "generic.Second": "\n2nd: ",
+    "generic.Third": "\n3rd: ",
+    "generic.Fourth": "\n4th: ",
+
 
 
 
@@ -55,6 +60,17 @@
     "deathMessages.DiceyDescent6": " should not try enter the lottery...",
     "deathMessages.DiceyDescent7": " was very unlucky...",
     "deathMessages.DiceyDescent8": " was disintegrated!",
+
+
+    "deathMessages.ZombieTag1": " became smelly",
+    "deathMessages.ZombieTag2": " was infected",
+    "deathMessages.ZombieTag3": " lost his brain!",
+    "deathMessages.ZombieTag4": " had an outfit change",
+    "deathMessages.ZombieTag5": " got too close",
+    "deathMessages.ZombieTag6a": "Ew stay away from ",
+    "deathMessages.ZombieTag6b": "...",
+    "deathMessages.ZombieTag7": " is tagged!",
+    "deathMessages.ZombieTag8": " wants braaaaaains...",
 
 
 
