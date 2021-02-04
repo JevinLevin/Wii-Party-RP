@@ -30,12 +30,14 @@
 
 
 
+    "game.BarrelDaredevil": "\n§l§nBarrel Daredevil§r   \n\n§7§lHow To Play:§r   \n§7Wait for the barrels to start falling   \nPress the barrel as late as you can to win   \nIf you don't press the button in time you will automatically lose!",
 
 
     "generic.Placement": "\n§l§nFinal Standings!\n",
 
     "generic.Finish": "FINISH!",
     "generic.Ready": "Ready?",
+    "generic.Start": "Start!",
 
     "generic.Red": "Red",
     "generic.Blue": "Blue",
@@ -51,31 +53,43 @@
 
 
 
-    "deathMessages.DiceyDescent1": " experienced electricity",
-    "deathMessages.DiceyDescent2": " was too good of a conducter!",
-    "deathMessages.DiceyDescent3": " was §oshocked§r §7at how good this map is...",
-    "deathMessages.DiceyDescent4": " became fully charged!",
-    "deathMessages.DiceyDescent5a": "Avoid touching ",
-    "deathMessages.DiceyDescent5b": "!",
-    "deathMessages.DiceyDescent6": " should not try enter the lottery...",
-    "deathMessages.DiceyDescent7": " was very unlucky...",
-    "deathMessages.DiceyDescent8": " was disintegrated!",
+    "deathMessages.DiceyDescent1": "%s experienced electricity",
+    "deathMessages.DiceyDescent2": "%s was too good of a conducter!",
+    "deathMessages.DiceyDescent3": "%s was §oshocked§r §7at how good this map is...",
+    "deathMessages.DiceyDescent4": "%s became fully charged!",
+    "deathMessages.DiceyDescent5": "Avoid touching %s!",
+    "deathMessages.DiceyDescent6": "%s should not try enter the lottery...",
+    "deathMessages.DiceyDescent7": "%s was very unlucky...",
+    "deathMessages.DiceyDescent8": "%s was disintegrated!",
 
 
-    "deathMessages.ZombieTag1": " became smelly",
-    "deathMessages.ZombieTag2": " was infected",
-    "deathMessages.ZombieTag3": " lost his brain!",
-    "deathMessages.ZombieTag4": " had an outfit change",
-    "deathMessages.ZombieTag5": " got too close",
-    "deathMessages.ZombieTag6a": "Ew stay away from ",
-    "deathMessages.ZombieTag6b": "...",
-    "deathMessages.ZombieTag7": " is tagged!",
-    "deathMessages.ZombieTag8": " wants braaaaaains...",
+    "deathMessages.ZombieTag1": "%s became smelly",
+    "deathMessages.ZombieTag2": "%s was infected",
+    "deathMessages.ZombieTag3": "%s lost his brain!",
+    "deathMessages.ZombieTag4": "%s had an outfit change",
+    "deathMessages.ZombieTag5": "%s got too close",
+    "deathMessages.ZombieTag6": "Ew stay away from %s...",
+    "deathMessages.ZombieTag7": "%s is tagged!",
+    "deathMessages.ZombieTag8": "%s wants braaaaaains...",
+
+
+    "deathMessages.BarrelDaredevil1": "%s has permanent brain damage...",
+    "deathMessages.BarrelDaredevil2": "%s hit their head, §oreally§r §7hard",
+    "deathMessages.BarrelDaredevil3": "%s is seeing double",
+    "deathMessages.BarrelDaredevil4": "%s went §lBONK",
+    "deathMessages.BarrelDaredevil5": "%s waited too long",
+    "deathMessages.BarrelDaredevil6": "%s lived life too far on the edge",
+    "deathMessages.BarrelDaredevil7": "%s has major input lag",
+    "deathMessages.BarrelDaredevil8": "%s would suck at find the button",
 
 
 
 
 
     "To play this map you must enable the resoucepack. ": "%s",
-    "[DOWNLOAD]": "%s"
+    "[DOWNLOAD]": "%s",
+
+    "general.rpInstalled": "Thanks for installing the resourcepack. ",
+    "general.rpContinue": "[CONTINUE]"
+
 }
