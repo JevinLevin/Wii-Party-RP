@@ -1,58 +1,39 @@
 {
-    "game.GoalGetters": "\n§l§nGoal Getters§r   \n\n§7§lHow To Play:§r   \n§7Balls of different sizes will be flung at you.   \nMake sure you kick/punch the ball into the goal.   \nThe player with the most goals wins!",
-
-
-
-    "game.DiceyDescent": "\n§l§nDicey Descent§r   \n\n§7§lHow To Play:§r   \n§7Choose a side to fall through   \nOne side will be bad   \nMake sure to choose the least bad sides to win!",
-    "game.DiceyDescent.ChooseSide": "Choose a side!",
-    "game.DiceyDescent.OnSideA": "You are on the ",
-    "game.DiceyDescent.OnSideB": " side.",
-
-
-
-    "game.ZombieTag": "\n§l§nZombie Tag§r   \n\n§7§lHow To Play:§r   \n§7Avoid the zombies touching you   \nIf a zombie attacks you, you will turn into a zombie too   \nLast player standing wins",
-
-    "game.ZombieTag.Infected": "You have been infected!",
-
-    "game.ZombieTag.HereLies": "Here Lies",
-
-    "game.ZombieTag.EnterTheGraveyard": "Enter the graveyard!",
-
-    "game.ZombieTag.NameHead": "Zombie Mask",
-    "game.ZombieTag.NameChest": "Zombie Jumper",
-    "game.ZombieTag.NameLegs": "Zombie Pants",
-    "game.ZombieTag.NameFeet": "Zombie Shoes",
-
-    "game.ZombieTag.LoreHead": "You don't wanna know what's underneath",
-    "game.ZombieTag.LoreChest": "Smells terrible",
-    "game.ZombieTag.LoreLegs": "Smells even worse",
-    "game.ZombieTag.LoreFeet": "Definitely the worst smelling",
-
-
-
-    "game.BarrelDaredevil": "\n§l§nBarrel Daredevil§r   \n\n§7§lHow To Play:§r   \n§7Wait for the barrels to start falling   \nPress the barrel as late as you can to win   \nIf you don't press the button in time you will automatically lose!",
-
-
     "generic.Placement": "\n§l§nFinal Standings!\n",
-
     "generic.Finish": "FINISH!",
     "generic.Ready": "Ready?",
     "generic.Start": "Start!",
-
+    "generic.RedTeam": "Red",
+    "generic.BlueTeam": "Blue",
+    "generic.GreenTeam": "Green",
+    "generic.OrangeTeam": "Orange",
     "generic.Red": "Red",
     "generic.Blue": "Blue",
     "generic.RedCap": "RED",
     "generic.BlueCap": "BLUE",
-
     "generic.First": "\n1st: ",
     "generic.Second": "\n2nd: ",
     "generic.Third": "\n3rd: ",
     "generic.Fourth": "\n4th: ",
+    "generic.Winner": "\nWinner: ",
+    "generic.Winners": "\nWinners: ",
+    "generic.Loser": "\nLoser: ",
+    "generic.Losers": "\nLosers: ",
+    "generic.OnYourMarks": "On Your Marks...",
+    "generic.GetSet": "Get Set...",
+    "generic.Go": "GO!",
+    "generic.placeholder": "%s",
 
 
+    "game.GoalGettersName": "Goal Getters",
+    "game.GoalGetters": "\n§l§nGoal Getters§r   \n\n§7§lHow To Play:§r   \n§7 - Balls of different sizes will be flung at you   \n - Make sure you kick/punch the ball into the goal   \n - The player with the most goals wins!\n",
 
 
-
+    "game.DiceyDescentName": "Dicey Descent",
+    "game.DiceyDescent": "\n§l§nDicey Descent§r   \n\n§7§lHow To Play:§r   \n§7 - Choose a side to fall through   \n - One side will be bad   \n - Make sure to choose the least bad sides to win!\n",
+    "game.DiceyDescent.ChooseSide": "Choose a side!",
+    "game.DiceyDescent.OnSideA": "You are on the ",
+    "game.DiceyDescent.OnSideB": " side.",
     "deathMessages.DiceyDescent1": "%s experienced electricity",
     "deathMessages.DiceyDescent2": "%s was too good of a conducter!",
     "deathMessages.DiceyDescent3": "%s was §oshocked§r §7at how good this map is...",
@@ -63,6 +44,20 @@
     "deathMessages.DiceyDescent8": "%s was disintegrated!",
 
 
+    "game.ZombieTagName": "Zombie Tag",
+    "game.ZombieTagTeam": "[Zombie]",
+    "game.ZombieTag": "\n§l§nZombie Tag§r   \n\n§7§lHow To Play:§r   \n§7 - Avoid the zombies touching you   \n - If a zombie attacks you, you will turn into a zombie too   \n - Last player standing wins\n",
+    "game.ZombieTag.Infected": "You have been infected!",
+    "game.ZombieTag.HereLies": "Here Lies",
+    "game.ZombieTag.EnterTheGraveyard": "Enter the graveyard!",
+    "game.ZombieTag.NameHead": "Zombie Mask",
+    "game.ZombieTag.LoreHead": "You don't wanna know what's underneath",
+    "game.ZombieTag.NameChest": "Zombie Jumper",
+    "game.ZombieTag.LoreChest": "Smells terrible",
+    "game.ZombieTag.NameLegs": "Zombie Pants",
+    "game.ZombieTag.LoreLegs": "Smells even worse",
+    "game.ZombieTag.NameFeet": "Zombie Shoes",
+    "game.ZombieTag.LoreFeet": "Definitely the worst smelling",
     "deathMessages.ZombieTag1": "%s became smelly",
     "deathMessages.ZombieTag2": "%s was infected",
     "deathMessages.ZombieTag3": "%s lost his brain!",
@@ -73,6 +68,8 @@
     "deathMessages.ZombieTag8": "%s wants braaaaaains...",
 
 
+    "game.BarrelDaredevilName": "Barrel Daredevil",
+    "game.BarrelDaredevil": "\n§l§nBarrel Daredevil§r   \n\n§7§lHow To Play:§r   \n§7 - Wait for the barrels to start falling   \n - Press the barrel as late as you can to win   \n - If you don't press the button in time you will automatically lose!\n",
     "deathMessages.BarrelDaredevil1": "%s has permanent brain damage...",
     "deathMessages.BarrelDaredevil2": "%s hit their head, §oreally§r §7hard",
     "deathMessages.BarrelDaredevil3": "%s is seeing double",
@@ -83,13 +80,80 @@
     "deathMessages.BarrelDaredevil8": "%s would suck at find the button",
 
 
+    "game.MazeDazeName": "Maze Daze",
+    "game.MazeDaze": "\n§l§nMaze Daze§r\n\n§7§lHow To Play:§r\n§7 - Find your way through the maze\n - Be careful as pads on the floor can change your controls\n - First player to get to the centre wins!\n",
+
+
+    "game.FriendlyFaceOffName": "Friendly Face-Off",
+    "game.FriendlyFaceOff": "\n§l§nFriendly Face-Off§r\n\n§7§lHow To Play:§r\n§7 - Rearrange the maps to mimic the image displayed\n - You may need to change both their place and rotation\n - First player to finish their map wins!\n",
+
+
+    "game.HideNPeekName": "Hide-and-Peek",
+    "game.HideNPeek.Hider": "\n§l§nHide-and-Peek§r\n\n§7§lHow To Play:§r\n§7 - You have 1 minute to get the best spot\n - Your objective is not to get caught by the seeker, so you can consider the rocking horses your safest bet\n - The symbol '§c⚠§7' means you're too far from the structure, so you'll get teleported back\n",
+    "game.HideNPeek.Seeker": "\n§l§nHide-and-Peek§r\n\n§7§lHow To Play:§r\n§7 - The hiders will have 1 minute to choose a spot\n - Once that timer is over you will have 5 chances to find them\n - To search in a structure drop your Seeker's Tool near it. If you catch someone they'll start glowing\n",
+    "game.HideNPeek.HidersReleased": "",
+    "game.HideNPeek.SeekerReleased": "The seeker has been released",
+    "game.HideNPeek.HiderWins": "The hider won!",
+    "game.HideNPeek.HidersWin": "The hiders won!",
+    "game.HideNPeek.SeekerWins": "The seeker won!",
+    "game.HideNPeek.HidingIn": "Hiding in: ",
+    "game.HideNPeek.Castle": "Castle",
+    "game.HideNPeek.Dome": "Dome",
+    "game.HideNPeek.Statue": "Statue",
+    "game.HideNPeek.Boat": "Boat",
+    "game.HideNPeek.Plane": "Plane",
+    "game.HideNPeek.RockingHorses": "Rocking Horses",
+    "game.HideNPeek.Tube": "Tube",
+    "game.HideNPeek.SeekerTool.Name": "Seeker's Tool",
+    "game.HideNPeek.SeekerTool.Lore": "Drop to search",
+    "deathMessages.HideNPeek1": "%s was caught by %s",
+    "deathMessages.HideNPeek2": "%s doesn't know how to hide",
+    "deathMessages.HideNPeek3": "%s's detective skills guided him to %s",
+    "deathMessages.HideNPeek4": "%s caught %s",
+    "deathMessages.HideNPeek5": "Even cows are better hiders than %s",
+    "game.HideNPeek.messages.0L0P1": "%s ran out of lives =(",
+    "game.HideNPeek.messages.0L0P2": "%s was unlucky this round",
+    "game.HideNPeek.messages.0L0P3": "%s lost",
+    "game.HideNPeek.messages.0L0P4": "%s couldn't catch everyone",
+    "game.HideNPeek.messages.0L0P5": "The hiders were too good for %s",
+    "game.HideNPeek.messages.1L0P1": "%s found nothing in the %s and now has only §c1§7 life left",
+    "game.HideNPeek.messages.1L0P2": "%s couldn't find anyone near the %s and is on his last life",
+    "game.HideNPeek.messages.1L0P3": "The %s wasn't a good choice for %s (§c1§7 life left)",
+    "game.HideNPeek.messages.1L0P4": "%s didn't catch anyone in the %s (§c1§7 life remaining)",
+    "game.HideNPeek.messages.1L0P5": "The %s was empty, and %s's lifes just dropped to §c1",
+    "game.HideNPeek.messages.1L1P1": "%s found 1 player in the %s but now has only §c1§7 life left",
+    "game.HideNPeek.messages.1L1P2": "%s managed to find 1 player near the %s and is on his last life",
+    "game.HideNPeek.messages.1L1P3": "The %s was a good choice for %s (§c1§7 life left)",
+    "game.HideNPeek.messages.1L1P4": "%s caught 1 player in the %s (§c1§7 life remaining)",
+    "game.HideNPeek.messages.1L1P5": "The %s had 1 player, but %s's lifes just dropped to §c1",
+    "game.HideNPeek.messages.1LPs1": "%s found %s players in the %s but now has only §c1§7 life left",
+    "game.HideNPeek.messages.1LPs2": "%s managed to find %s players near the %s and is on his last life",
+    "game.HideNPeek.messages.1LPs3": "The %s was a very good choice for %s (§c1§7 life left)",
+    "game.HideNPeek.messages.1LPs4": "%s caught %s players in the %s (§c1§7 life remaining)",
+    "game.HideNPeek.messages.1LPs5": "The %s had %s players, but %s's lifes just dropped to §c1",
+    "game.HideNPeek.messages.Ls0P1": "%s found nothing in the %s but still has §c%s§7 lives left",
+    "game.HideNPeek.messages.Ls0P2": "%s couldn't find anyone near the %s but has §c%s§7 lives left",
+    "game.HideNPeek.messages.Ls0P3": "The %s wasn't a good choice for %s (§c%s§7 life left)",
+    "game.HideNPeek.messages.Ls0P4": "%s didn't catch anyone in the %s (§c%s§7 life remaining)",
+    "game.HideNPeek.messages.Ls0P5": "The %s was empty, but %s still has §c%s§7 lives remaining",
+    "game.HideNPeek.messages.Ls1P1": "%s found 1 player in the %s and still has §c%s§7 lives left",
+    "game.HideNPeek.messages.Ls1P2": "%s managed to find 1 player near the %s and has §c%s§7 lives",
+    "game.HideNPeek.messages.Ls1P3": "The %s was a good choice for %s (§c%s§7 lives left)",
+    "game.HideNPeek.messages.Ls1P4": "%s caught 1 player in the %s (§c%s§7 lives remaining)",
+    "game.HideNPeek.messages.Ls1P5": "The %s had 1 player, but %s's lifes just dropped to §c%s",
+    "game.HideNPeek.messages.LsPs1": "%s found %s players in the %s and still has §c%s§7 lives left",
+    "game.HideNPeek.messages.LsPs2": "%s managed to find %s players near the %s and has §c%s§7 lives",
+    "game.HideNPeek.messages.LsPs3": "The %s was a very good choice for %s (§c%s§7 life left)",
+    "game.HideNPeek.messages.LsPs4": "%s caught %s players in the %s (§c%s§7 life remaining)",
+    "game.HideNPeek.messages.LsPs5": "The %s had %s players, but %s's lifes just dropped to §c%s",
+
 
 
 
     "To play this map you must enable the resoucepack. ": "%s",
     "[DOWNLOAD]": "%s",
-
     "general.rpInstalled": "Thanks for installing the resourcepack. ",
-    "general.rpContinue": "[CONTINUE]"
+    "general.rpContinue": "[CONTINUE]",
 
+    "container.isLocked": ""
 }
