@@ -78,6 +78,11 @@
     "deathMessages.BarrelDaredevil7": "%s has major input lag",
     "deathMessages.BarrelDaredevil8": "%s would suck at find the button",
 
+    "game.BackAttackName": "Back Attack",
+    "game.BackAttack": "\n§l§nBack Attack§r   \n\n§7§lHow To Play:§r   \n§7 - Scroll up and down to turn left and right at the next turn  \n - Right click to shoot, try to hit the back of your opponents   \n - The last player standing wins!\n",
+    "game.BackAttack.Turning": "You are turning ",
+    "game.BackAttack.Left": "LEFT",
+    "game.BackAttack.Right": "RIGHT",
 
     "game.MazeDazeName": "Maze Daze",
     "game.MazeDaze": "\n§l§nMaze Daze§r\n\n§7§lHow To Play:§r\n§7 - Find your way through the maze\n - Be careful as pads on the floor can change your controls\n - First player to get to the centre wins!\n",
