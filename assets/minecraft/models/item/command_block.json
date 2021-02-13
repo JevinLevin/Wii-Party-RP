@@ -1,9 +1,0 @@
-{
-    "parent": "block/command_block",
-    "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "ouo:item/dice_white" },
-        { "predicate": { "custom_model_data": 2 }, "model": "ouo:item/dice_golden" },
-		{ "predicate": { "custom_model_data": 3 }, "model": "ouo:item/dice_silver" },
-		{ "predicate": { "custom_model_data": 4 }, "model": "ouo:item/dice_bronze" }
-	]
-}

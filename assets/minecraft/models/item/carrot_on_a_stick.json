@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "item/handheld_rod",
     "textures": {
         "layer0": "item/carrot_on_a_stick"
     },
@@ -9,6 +9,30 @@
                 "custom_model_data": 1
             },
             "model": "minecraft:item/blank"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "ouo:item/dice_white"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "ouo:item/dice_golden"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "ouo:item/dice_silver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "ouo:item/dice_bronze"
         }
     ]
 }

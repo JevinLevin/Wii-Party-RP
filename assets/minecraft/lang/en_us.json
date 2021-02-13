@@ -23,6 +23,7 @@
     "generic.GetSet": "Get Set...",
     "generic.Go": "GO!",
     "generic.Placeholder": "%s",
+    "generic.TimeLeft": "Time Left",
 
 
     "game.GoalGettersName": "Goal Getters",
@@ -83,6 +84,17 @@
     "game.BackAttack.Turning": "You are turning ",
     "game.BackAttack.Left": "LEFT",
     "game.BackAttack.Right": "RIGHT",
+    "game.BackAttack.ScrollUp": "Scroll Down",
+    "game.BackAttack.ToChange": " to change your direction at the next intersection",
+    "game.BackAttack.ToShoot": " to shoot infront of you",
+    "deathMessages.BackAttack1": "%s was blasted by %s",
+    "deathMessages.BackAttack2": "%s had their back attacked by by %s",
+    "deathMessages.BackAttack3": "%s has started flying",
+    "deathMessages.BackAttack4": "%s went WEEEEEEEEEEEEEE",
+    "deathMessages.BackAttack5": "%s forgot to watch their back",
+    "deathMessages.BackAttack6": "%s was shot in their back",
+    "deathMessages.BackAttack7": "%s is going to space",
+    "deathMessages.BackAttack8": "Look up, its %s!",
 
     "game.MazeDazeName": "Maze Daze",
     "game.MazeDaze": "\n§l§nMaze Daze§r\n\n§7§lHow To Play:§r\n§7 - Find your way through the maze\n - Be careful as pads on the floor can change your controls\n - First player to get to the centre wins!\n",
@@ -171,5 +183,6 @@
     "You need to enable the resourcepack to proceed.": "%s",
     " Resourcepack: [DOWNLOAD]": "%s",
 
-    "container.isLocked": ""
+    "container.isLocked": "",
+    "key.mouse.right": "Right Click"
 }
