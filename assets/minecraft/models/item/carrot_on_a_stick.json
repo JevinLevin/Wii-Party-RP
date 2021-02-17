@@ -5,13 +5,43 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1},"model": "minecraft:item/blank"},
-		{"predicate": {"custom_model_data": 2},"model": "ouo:item/dice_white"},
-		{"predicate": {"custom_model_data": 3},"model": "ouo:item/dice_golden"},
-		{"predicate": {"custom_model_data": 4},"model": "ouo:item/dice_silver"},
-		{"predicate": {"custom_model_data": 5},"model": "ouo:item/dice_bronze"},
-		{"predicate": {"custom_model_data": 6},"model": "ouo:item/propeller_1"},
-		{"predicate": {"custom_model_data": 7},"model": "ouo:item/propeller_2"},
-		{"predicate": {"custom_model_data": 8},"model": "ouo:item/propeller_3"},
-		{"predicate": {"custom_model_data": 9},"model": "ouo:item/shiny_s"}
+
+
+		{"predicate": {"custom_model_data": 101},"model": "ouo:item/dice/normal/1"},
+		{"predicate": {"custom_model_data": 102},"model": "ouo:item/dice/normal/2"},
+		{"predicate": {"custom_model_data": 103},"model": "ouo:item/dice/normal/3"},
+		{"predicate": {"custom_model_data": 104},"model": "ouo:item/dice/normal/4"},
+		{"predicate": {"custom_model_data": 105},"model": "ouo:item/dice/normal/5"},
+		{"predicate": {"custom_model_data": 106},"model": "ouo:item/dice/normal/6"},
+		
+		{"predicate": {"custom_model_data": 111},"model": "ouo:item/dice/golden/1"},
+		{"predicate": {"custom_model_data": 112},"model": "ouo:item/dice/golden/2"},
+		{"predicate": {"custom_model_data": 113},"model": "ouo:item/dice/golden/3"},
+		{"predicate": {"custom_model_data": 114},"model": "ouo:item/dice/golden/4"},
+		{"predicate": {"custom_model_data": 115},"model": "ouo:item/dice/golden/5"},
+		{"predicate": {"custom_model_data": 116},"model": "ouo:item/dice/golden/6"},
+
+		{"predicate": {"custom_model_data": 121},"model": "ouo:item/dice/silver/1"},
+		{"predicate": {"custom_model_data": 122},"model": "ouo:item/dice/silver/2"},
+		{"predicate": {"custom_model_data": 123},"model": "ouo:item/dice/silver/3"},
+		{"predicate": {"custom_model_data": 124},"model": "ouo:item/dice/silver/4"},
+		{"predicate": {"custom_model_data": 125},"model": "ouo:item/dice/silver/5"},
+		{"predicate": {"custom_model_data": 126},"model": "ouo:item/dice/silver/6"},
+
+		{"predicate": {"custom_model_data": 131},"model": "ouo:item/dice/bronze/1"},
+		{"predicate": {"custom_model_data": 132},"model": "ouo:item/dice/bronze/2"},
+		{"predicate": {"custom_model_data": 133},"model": "ouo:item/dice/bronze/3"},
+		{"predicate": {"custom_model_data": 134},"model": "ouo:item/dice/bronze/4"},
+		{"predicate": {"custom_model_data": 135},"model": "ouo:item/dice/bronze/5"},
+		{"predicate": {"custom_model_data": 136},"model": "ouo:item/dice/bronze/6"},
+
+
+		{"predicate": {"custom_model_data": 1001},"model": "ouo:item/propeller_1"},
+		{"predicate": {"custom_model_data": 1002},"model": "ouo:item/propeller_2"},
+		{"predicate": {"custom_model_data": 1003},"model": "ouo:item/propeller_3"},
+
+
+		{"predicate": {"custom_model_data": 4001},"model": "ouo:item/shiny_s"}
+
 	]
 }
