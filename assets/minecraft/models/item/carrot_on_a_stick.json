@@ -35,6 +35,8 @@
 		{"predicate": {"custom_model_data": 135},"model": "ouo:item/dice/bronze/5"},
 		{"predicate": {"custom_model_data": 136},"model": "ouo:item/dice/bronze/6"},
 
+		{"predicate": {"custom_model_data": 141},"model": "ouo:item/skip"},
+
 
 		{"predicate": {"custom_model_data": 1001},"model": "ouo:item/propeller_1"},
 		{"predicate": {"custom_model_data": 1002},"model": "ouo:item/propeller_2"},
