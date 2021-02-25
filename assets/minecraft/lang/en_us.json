@@ -197,6 +197,14 @@
     "board.DiceRoll.IfTooLazy": "if you are too lazy to walk.",
     "board.DiceRoll.TookTooLong": "%s took too long.",
 
+    "board.GameSelect.Round": "Round %s",
+    "board.GameSelect.PlayForPosition": "Play for Position",
+    "board.GameSelect.IsChoosing": "%s is choosing",
+    "board.GameSelect.ClickToPlay": "Click to play this minigame",
+    "board.GameSelect.ClickInChat": "Click the message in chat to choose that minigame.",
+    "board.GameSelect.WaitFor": "Wait for %s to choose the next minigame.",
+    "board.GameSelect.TookTooLong": "%s took too long to decide.",
+
 
 
     "To play this map you must enable the resoucepack. ": "%s",

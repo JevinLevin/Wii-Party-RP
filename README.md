@@ -1,2 +1,3 @@
 # Wii Party RP
- jevin
+ 
+ The Development Resource Pack for Wii Party in Minecraft
