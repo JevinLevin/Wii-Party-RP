@@ -24,6 +24,8 @@
     "generic.Go": "GO!",
     "generic.Placeholder": "%s",
     "generic.TimeLeft": "Time Left",
+    "generic.Error.Alone": "You can't play this game alone",
+
 
 
     "game.GoalGettersName": "Goal Getters",
@@ -172,6 +174,7 @@
     "game.HideNPeek.messages.LsPs3": "%s was a very good choice for %s (§c%s§7 life left)",
     "game.HideNPeek.messages.LsPs4": "%s caught %s players in %s (§c%s§7 life remaining)",
     "game.HideNPeek.messages.LsPs5": "%s had %s players, but %s's lifes just dropped to §c%s",
+    "game.HideNPeek.Error.NoSeeker": "The game can't start (no seeker has been selected)",
 
 
     "board.DiceRoll.Invalid": "You aren't in a correct position to throw this item.",
