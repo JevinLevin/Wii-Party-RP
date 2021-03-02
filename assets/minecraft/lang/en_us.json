@@ -177,6 +177,8 @@
     "game.HideNPeek.messages.LsPs5": "%s had %s players, but %s's lifes just dropped to §c%s",
     "game.HideNPeek.Error.NoSeeker": "The game can't start (no seeker has been selected)",
 
+    "games.MazeDaze.GetBack": "Get back in your minecart!",
+
 
     "board.DiceRoll.Invalid": "You aren't in a correct position to throw this item.",
     "board.DiceRoll.MoveTo": "Move to tile %s.",
@@ -224,5 +226,6 @@
     " Resourcepack: [DOWNLOAD]": "%s",
 
     "container.isLocked": "",
-    "key.mouse.right": "Right Click"
+    "key.mouse.right": "Right Click",
+    "mount.onboard": ""
 }
