@@ -23,17 +23,10 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:4right.png",
+            "file": "minecraft:map.png",
             "ascent": 128,
             "height": 256,
             "chars": ["\uE003"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:4left.png",
-            "ascent": 128,
-            "height": 256,
-            "chars": ["\uE004"]
         }
     ]
 }

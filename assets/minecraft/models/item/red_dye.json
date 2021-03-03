@@ -1,0 +1,13 @@
+{
+    "parent":"item/pos_marker_blue",
+    "display": {
+        "gui": {
+            "rotation":[90,0,0],
+            "translation":[-80,64,0],
+            "scale":[2.6667,2.6667,2.6667]
+            }
+        },
+    "overrides":[{"predicate":{"custom_model_data":1},"model":"item/pos/0"}
+    ]
+}
+    

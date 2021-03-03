@@ -1,0 +1,6 @@
+{
+	"parent": "item/plate",
+    "textures": {
+        "plate": "test1"
+    }
+}
