@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1},"model": "minecraft:item/blank"},
+		{"predicate": {"custom_model_data": 2},"model": "minecraft:item/dice_outline"},
 
 
 		{"predicate": {"custom_model_data": 101},"model": "ouo:item/dice/normal/1"},

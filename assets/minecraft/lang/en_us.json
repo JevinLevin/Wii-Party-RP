@@ -230,6 +230,17 @@
     "board.Draw.Same": "Some players rolled the same number! They will now roll again.",
     "board.Draw.Softlock": "Some players have not recieved a position due to a error in the game. To prevent a softlock players have been randomly given a placement tag",
 
+    "board.Tiles.Surprise": "Surprise Time!",
+    "board.Tiles.Ufo.Intro": "%1$s will now choose a random player to swap positions with.",
+    "board.Tiles.Ufo.IntroLessThan3": "%1$s will now swap positions with %2$s.",
+    "board.Tiles.Ufo.1-2": "1-2: %s",
+    "board.Tiles.Ufo.3-4": "3-4: %s",
+    "board.Tiles.Ufo.5-6": "5-6: %s",
+    "board.Tiles.Ufo.1-3": "1-3: %s",
+    "board.Tiles.Ufo.4-6": "4-6: %s",
+    "board.Tiles.Ufo.PlayerNumbers": "Player Numbers",
+    "board.Tiles.Ufo.HasBeenChosen": "%s has been chosen!",
+
 
     "To play this map you must enable the resoucepack. ": "%s",
     "[DOWNLOAD]": "%s",
