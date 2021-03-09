@@ -1,0 +1,7 @@
+{
+	"parent": "block/command_block",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "ouo:block/detonator" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ouo:block/detonator_pushed" }
+	]
+}

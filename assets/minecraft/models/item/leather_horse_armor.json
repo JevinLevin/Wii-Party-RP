@@ -5,6 +5,16 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1},"model": "ouo:item/target_cart"},
-		{"predicate": {"custom_model_data": 2},"model": "ouo:item/target_cart_a"}
+		{"predicate": {"custom_model_data": 2},"model": "ouo:item/target_cart_a"},
+		
+		{"predicate": {"custom_model_data": 3},"model": "ouo:block/firework/normal_p1"},
+		{"predicate": {"custom_model_data": 4},"model": "ouo:block/firework/normal_p2"},
+		{"predicate": {"custom_model_data": 5},"model": "ouo:block/firework/normal_p3"},
+		{"predicate": {"custom_model_data": 6},"model": "ouo:block/firework/large_p1"},
+		{"predicate": {"custom_model_data": 7},"model": "ouo:block/firework/large_p2"},
+		{"predicate": {"custom_model_data": 8},"model": "ouo:block/firework/large_p3"},
+		{"predicate": {"custom_model_data": 9},"model": "ouo:block/firework/large_long_p1"},
+		{"predicate": {"custom_model_data": 10},"model": "ouo:block/firework/large_long_p2"},
+		{"predicate": {"custom_model_data": 11},"model": "ouo:block/firework/large_long_p3"}
 	]
 }
