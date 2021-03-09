@@ -215,6 +215,8 @@
     "board.DiceRoll.TeleportTo": "Teleports you to your tile",
     "board.DiceRoll.IfTooLazy": "if you are too lazy to walk.",
     "board.DiceRoll.TookTooLong": "%s took too long.",
+    "board.DiceRoll.PlayerDice.Name": "Player Die",
+    "board.DiceRoll.PlayerDice.Lore": "Randomly chooses a player.",
 
     "board.GameSelect.Round": "Round %s",
     "board.GameSelect.PlayForPosition": "Play for Position",
@@ -231,8 +233,10 @@
     "board.Draw.Softlock": "Some players have not recieved a position due to a error in the game. To prevent a softlock players have been randomly given a placement tag",
 
     "board.Tiles.Surprise": "Surprise Time!",
-    "board.Tiles.Ufo.Intro": "%1$s will now choose a random player to swap positions with.",
+    "board.Tiles.Ufo.Intro": "%1$s will now choose a random player on the island to swap positions with.",
     "board.Tiles.Ufo.IntroLessThan3": "%1$s will now swap positions with %2$s.",
+    "board.Tiles.Ufo.NoPlayers1": "There are no available players to swap with :(",
+    "board.Tiles.Ufo.NoPlayers2": "This segment will be skipped",
     "board.Tiles.Ufo.1-2": "1-2: %s",
     "board.Tiles.Ufo.3-4": "3-4: %s",
     "board.Tiles.Ufo.5-6": "5-6: %s",
@@ -240,6 +244,10 @@
     "board.Tiles.Ufo.4-6": "4-6: %s",
     "board.Tiles.Ufo.PlayerNumbers": "Player Numbers",
     "board.Tiles.Ufo.HasBeenChosen": "%s has been chosen!",
+    "board.Tiles.Ufo.UpdatedPositionsText": "Updated Positions:",
+    "board.Tiles.Ufo.UpdatedPositions": "%1$s: %2$s > %3$s",
+    "board.Tiles.Skull.InVolcano": "%s is now stuck in the volcano!",
+    "board.Tiles.Shout.Escape": "%s made it out of the volcano!",
 
 
     "To play this map you must enable the resoucepack. ": "%s",

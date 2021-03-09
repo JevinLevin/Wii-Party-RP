@@ -27,6 +27,13 @@
             "ascent": 128,
             "height": 256,
             "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:light.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE004"]
         }
     ]
 }
