@@ -38,6 +38,20 @@
 
 		{"predicate": {"custom_model_data": 141},"model": "minecraft:item/skip"},
 
+		{"predicate": {"custom_model_data": 151},"model": "ouo:item/dice/negative/1"},
+		{"predicate": {"custom_model_data": 152},"model": "ouo:item/dice/negative/2"},
+		{"predicate": {"custom_model_data": 153},"model": "ouo:item/dice/negative/3"},
+		{"predicate": {"custom_model_data": 154},"model": "ouo:item/dice/negative/4"},
+		{"predicate": {"custom_model_data": 155},"model": "ouo:item/dice/negative/5"},
+		{"predicate": {"custom_model_data": 156},"model": "ouo:item/dice/negative/6"},
+
+		{"predicate": {"custom_model_data": 161},"model": "ouo:item/dice/dino/1"},
+		{"predicate": {"custom_model_data": 162},"model": "ouo:item/dice/dino/2"},
+		{"predicate": {"custom_model_data": 163},"model": "ouo:item/dice/dino/3"},
+		{"predicate": {"custom_model_data": 164},"model": "ouo:item/dice/dino/4"},
+		{"predicate": {"custom_model_data": 165},"model": "ouo:item/dice/dino/5"},
+		{"predicate": {"custom_model_data": 166},"model": "ouo:item/dice/dino/6"},
+
 
 		{"predicate": {"custom_model_data": 1001},"model": "ouo:item/propeller_1"},
 		{"predicate": {"custom_model_data": 1002},"model": "ouo:item/propeller_2"},
