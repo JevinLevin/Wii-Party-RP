@@ -1,6 +1,5 @@
 {
 	"credit": "Made by T4Bl3rUs",
-	"gui_light": "front",
 	"textures": {
 		"0": "ouo:item/barrier",
 		"particle": "ouo:item/barrier"
@@ -247,6 +246,13 @@
 			}
 		}
 	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "barrier",
