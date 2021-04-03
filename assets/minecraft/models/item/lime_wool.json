@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/lime_wool",
+	"textures": {
+		"layer0": "item/lime_wool"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 4},"model": "ouo:item/advancements/dynamic/island/double"},
+		{"predicate": {"custom_model_data": 5},"model": "ouo:item/advancements/dynamic/island/triple"},
+		{"predicate": {"custom_model_data": 6},"model": "ouo:item/advancements/dynamic/dicey_descent/dicey_descent"},
+		{"predicate": {"custom_model_data": 7},"model": "ouo:item/advancements/dynamic/dicey_descent/clutch"},
+		{"predicate": {"custom_model_data": 8},"model": "minecraft:item/lime_wool"}
+	]
+}

@@ -238,7 +238,7 @@
 
     "board.Tiles.Surprise": "Surprise Time!",
     "board.Tiles.UpdatedPositionsText": "Updated Positions:",
-    "board.Tiles.UpdatedPositions": "%1$s: %2$s > %3$s",
+    "board.Tiles.UpdatedPositions": "%1$s: %2$s §l> %3$s",
     "board.Tiles.SkipSegment": "This segment will be skipped",
     "board.Tiles.HasBeenChosen": "%s has been chosen!",
     "board.Tiles.HasBeenChosenDefault": "%s has been chosen by default!",
@@ -284,5 +284,6 @@
     "gui.recipebook.toggleRecipes.smeltable": "",
     "gui.recipebook.toggleRecipes.blastable": "",
     "gui.recipebook.toggleRecipes.smokable": "",
-    "container.crafting": ""
+    "container.crafting": "",
+    "advancements.toast.goal": "Set completed!"
 }

@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:block/yellow_wool",
+	"textures": {
+		"layer0": "item/yellow_wool"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 4},"model": "ouo:item/advancements/static/island/double"},
+		{"predicate": {"custom_model_data": 5},"model": "ouo:item/advancements/static/island/triple"},
+		{"predicate": {"custom_model_data": 6},"model": "ouo:item/advancements/static/dicey_descent/dicey_descent"},
+		{"predicate": {"custom_model_data": 7},"model": "ouo:item/advancements/static/dicey_descent/clutch"},
+		{"predicate": {"custom_model_data": 8},"model": "ouo:item/advancements/static/dicey_descent/perfect"},
+		{"predicate": {"custom_model_data": 9},"model": "minecraft:item/yellow_wool"}
+	]
+}
