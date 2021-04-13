@@ -37,7 +37,7 @@
 		{"predicate": {"custom_model_data": 136},"model": "ouo:item/dice/bronze/6"},
 
 		{"predicate": {"custom_model_data": 141},"model": "minecraft:item/skip"},
-		{"predicate": {"custom_model_data": 141},"model": "ouo:item/barrier"},
+		{"predicate": {"custom_model_data": 142},"model": "ouo:item/barrier"},
 
 		{"predicate": {"custom_model_data": 151},"model": "ouo:item/dice/negative/1"},
 		{"predicate": {"custom_model_data": 152},"model": "ouo:item/dice/negative/2"},
