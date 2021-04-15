@@ -1,0 +1,30 @@
+{
+    "targets": [
+        "swap",
+        "final",
+        "storage"
+    ],
+    "passes": [
+        {
+            "name": "store",
+            "intarget": "final",
+            "outtarget": "swap",
+            "auxtargets":["storage"]
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "storage"
+        },
+        {
+            "name": "overlay",
+            "intarget": "storage",
+            "outtarget": "swap"
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "final"
+        }
+    ]
+}

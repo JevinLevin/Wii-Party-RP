@@ -1,29 +1,12 @@
 {
     "targets": [
         "swap",
-        "final",
-        "storage"
+        "final"
     ],
     "passes": [
         {
-            "name": "store",
-            "intarget": "storage",
-            "auxtargets": [
-                {
-                    "name": "FinalSampler",
-                    "id": "final"
-                }
-            ],
-            "outtarget": "swap"
-        },
-        {
-            "name": "blit",
-            "intarget": "swap",
-            "outtarget": "storage"
-        },
-        {
             "name": "overlay",
-            "intarget": "storage",
+            "intarget": "final",
             "outtarget": "swap"
         },
         {
