@@ -1,5 +1,5 @@
 {
-	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
+	"credit": "Made with Blockbench",
 	"elements": [
 		{
 			"from": [1.68629, 2, 1.75],
@@ -255,7 +255,7 @@
 		},
 		"head": {
 			"rotation": [-180, 0, -180],
-			"translation": [0, -3, 0],
+			"translation": [0, 14.5, 0],
 			"scale": [1.75, 1.75, 1.75]
 		},
 		"fixed": {
