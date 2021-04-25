@@ -7,14 +7,30 @@
 		{"predicate": {"custom_model_data": 1},"model": "ouo:item/target_cart"},
 		{"predicate": {"custom_model_data": 2},"model": "ouo:item/target_cart_a"},
 		
-		{"predicate": {"custom_model_data": 3},"model": "ouo:block/firework/normal_p1"},
-		{"predicate": {"custom_model_data": 4},"model": "ouo:block/firework/normal_p2"},
-		{"predicate": {"custom_model_data": 5},"model": "ouo:block/firework/normal_p3"},
-		{"predicate": {"custom_model_data": 6},"model": "ouo:block/firework/large_p1"},
-		{"predicate": {"custom_model_data": 7},"model": "ouo:block/firework/large_p2"},
-		{"predicate": {"custom_model_data": 8},"model": "ouo:block/firework/large_p3"},
-		{"predicate": {"custom_model_data": 9},"model": "ouo:block/firework/large_long_p1"},
-		{"predicate": {"custom_model_data": 10},"model": "ouo:block/firework/large_long_p2"},
-		{"predicate": {"custom_model_data": 11},"model": "ouo:block/firework/large_long_p3"}
+
+		{"predicate": {"custom_model_data": 501},"model": "ouo:block/firework/long_thin_bottom_p1"},
+		{"predicate": {"custom_model_data": 502},"model": "ouo:block/firework/long_thin_bottom_p2"},
+		{"predicate": {"custom_model_data": 503},"model": "ouo:block/firework/long_thin_bottom_p3"},
+		{"predicate": {"custom_model_data": 504},"model": "ouo:block/firework/long_thin_bottom_p4"},
+		{"predicate": {"custom_model_data": 505},"model": "ouo:block/firework/long_thin_top_p1"},
+		{"predicate": {"custom_model_data": 506},"model": "ouo:block/firework/long_thin_top_p2"},
+		{"predicate": {"custom_model_data": 507},"model": "ouo:block/firework/long_thin_top_p3"},
+		{"predicate": {"custom_model_data": 508},"model": "ouo:block/firework/long_thin_top_p4"},
+
+		{"predicate": {"custom_model_data": 511},"model": "ouo:block/firework/long-medium_fat_p1"},
+		{"predicate": {"custom_model_data": 512},"model": "ouo:block/firework/long-medium_fat_p2"},
+		{"predicate": {"custom_model_data": 513},"model": "ouo:block/firework/long-medium_fat_p3"},
+		{"predicate": {"custom_model_data": 514},"model": "ouo:block/firework/long-medium_fat_p4"},
+
+		{"predicate": {"custom_model_data": 521},"model": "ouo:block/firework/medium_p1"},
+		{"predicate": {"custom_model_data": 522},"model": "ouo:block/firework/medium_p2"},
+		{"predicate": {"custom_model_data": 523},"model": "ouo:block/firework/medium_p3"},
+		{"predicate": {"custom_model_data": 524},"model": "ouo:block/firework/medium_p4"},
+	
+		{"predicate": {"custom_model_data": 531},"model": "ouo:block/firework/short_thin_p1"},
+		{"predicate": {"custom_model_data": 532},"model": "ouo:block/firework/short_thin_p2"},
+		{"predicate": {"custom_model_data": 533},"model": "ouo:block/firework/short_thin_p3"},
+		{"predicate": {"custom_model_data": 534},"model": "ouo:block/firework/short_thin_p4"}
+
 	]
 }

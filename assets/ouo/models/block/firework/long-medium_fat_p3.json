@@ -1,0 +1,9 @@
+{
+	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
+	"parent": "ouo:block/firework/parent_firework_long-medium_fat",
+	"textures": {
+		"0": "ouo:block/firework_part",
+		"4": "ouo:block/firework_p3",
+		"particle": "ouo:block/firework_part"
+	}
+}
