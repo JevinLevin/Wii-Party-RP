@@ -110,6 +110,10 @@
     "deathMessages.BackAttack.Disqual7": "Everyone laugh at %s, he tried to cheat!",
     "deathMessages.BackAttack.Disqual8": "%s needs to read the rule book again",
 
+    "game.LuckyLaunch.ToSelectFirework": "%s to select this firework!",
+    "game.LuckyLaunch.ChosenFirework": "Everyone has chosen their fireworks",
+    "game.LuckyLaunch.RightClickToLight": "Go to your firework and %s to light it!",
+
     "game.MazeDazeName": "Maze Daze",
     "game.MazeDaze": "\n§l§nMaze Daze§r\n\n§7§lHow To Play:§r\n§7 - Find your way through the maze\n - Be careful as pads on the floor can change your controls\n - First player to get to the centre wins!\n",
     "games.MazeDaze.GetBack": "Get back in your minecart!",
