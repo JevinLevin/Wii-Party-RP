@@ -1,0 +1,9 @@
+{
+	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
+	"parent": "ouo:target_cart/parent",
+	"texture_size": [32, 32],
+	"textures": {
+		"3": "ouo:target_cart/normal",
+		"particle": "ouo:target_cart/normal"
+	}
+}
