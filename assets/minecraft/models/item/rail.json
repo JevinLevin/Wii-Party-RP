@@ -4,9 +4,9 @@
     "layer0": "minecraft:block/rail"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data": 1},"model": "ouo:block/alt_rail_straight"},
-		{"predicate": {"custom_model_data": 2},"model": "ouo:block/alt_rail_curved"},
-		{"predicate": {"custom_model_data": 3},"model": "ouo:block/alt_rail_t"},
-		{"predicate": {"custom_model_data": 4},"model": "ouo:block/alt_rail_sloped"}
+		{"predicate": {"custom_model_data": 1},"model": "ouo:rails/straight"},
+		{"predicate": {"custom_model_data": 2},"model": "ouo:rails/curved"},
+		{"predicate": {"custom_model_data": 3},"model": "ouo:rails/t"},
+		{"predicate": {"custom_model_data": 4},"model": "ouo:rails/sloped"}
 	]
 }
