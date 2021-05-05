@@ -4,8 +4,8 @@
 		"layer0": "minecraft:item/leather_horse_armor"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1},"model": "ouo:item/target_cart"},
-		{"predicate": {"custom_model_data": 2},"model": "ouo:item/target_cart_a"},
+		{"predicate": {"custom_model_data": 1},"model": "ouo:target_cart/normal"},
+		{"predicate": {"custom_model_data": 2},"model": "ouo:target_cart/animated"},
 		
 
 		{"predicate": {"custom_model_data": 501},"model": "ouo:block/firework/long_thin_bottom_p1"},
