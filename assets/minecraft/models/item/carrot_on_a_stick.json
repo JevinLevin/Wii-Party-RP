@@ -54,15 +54,15 @@
 		{"predicate": {"custom_model_data": 166},"model": "ouo:item/dice/dino/6"},
 
 
-		{"predicate": {"custom_model_data": 1001},"model": "ouo:propeller/propeller_1"},
-		{"predicate": {"custom_model_data": 1002},"model": "ouo:propeller/propeller_2"},
-		{"predicate": {"custom_model_data": 1003},"model": "ouo:propeller/propeller_3"},
+		{"predicate": {"custom_model_data": 1001},"model": "ouo:item/propeller_1"},
+		{"predicate": {"custom_model_data": 1002},"model": "ouo:item/propeller_2"},
+		{"predicate": {"custom_model_data": 1003},"model": "ouo:item/propeller_3"},
 
 
 		{"predicate": {"custom_model_data": 4001},"model": "ouo:item/shiny_s"},
 
-		{"predicate": {"custom_model_data": 5001},"model": "ouo:detonator/normal"},
-		{"predicate": {"custom_model_data": 5002},"model": "ouo:detonator/pushed"}
+		{ "predicate": { "custom_model_data": 5001 }, "model": "ouo:block/detonator" },
+		{ "predicate": { "custom_model_data": 5002 }, "model": "ouo:block/detonator_pushed" }
 
 	]
 }

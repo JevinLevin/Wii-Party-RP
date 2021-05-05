@@ -2,9 +2,9 @@
 	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "ouo:propeller/fan",
-		"3": "ouo:propeller/body",
-		"particle": "ouo:propeller/body"
+		"1": "ouo:item/propeller_a",
+		"3": "ouo:item/propeller",
+		"particle": "ouo:item/propeller"
 	},
 	"gui_light": "front",
 	"display": {

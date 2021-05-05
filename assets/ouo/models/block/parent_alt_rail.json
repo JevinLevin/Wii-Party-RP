@@ -1,8 +1,8 @@
 {
 	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
 	"textures": {
-		"0": "ouo:rails/alt_rail",
-		"particle": "ouo:rails/alt_rail"
+		"0": "ouo:block/alt_rail",
+		"particle": "ouo:block/alt_rail"
 	},
 	"display": {
 		"thirdperson_righthand": {

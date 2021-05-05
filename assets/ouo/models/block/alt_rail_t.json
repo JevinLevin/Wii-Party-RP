@@ -1,6 +1,6 @@
 {
 	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
-	"parent": "ouo:rails/parent",
+	"parent": "ouo:block/parent_alt_rail",
 	"elements": [
 		{
 			"from": [1, 0, 2.5],

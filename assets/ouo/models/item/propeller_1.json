@@ -1,6 +1,6 @@
 {
-	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
-	"parent": "ouo:propeller/parent",
+	"credit": "Made with Blockbench",
+	"parent": "ouo:item/parent_propeller",
 	"elements": [
 		{
 			"name": "fan",
