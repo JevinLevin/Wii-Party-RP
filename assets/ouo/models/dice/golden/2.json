@@ -1,0 +1,8 @@
+{
+	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
+	"parent": "ouo:dice/parent/2",
+	"textures": {
+		"1": "ouo:dice/golden",
+		"particle": "ouo:dice/golden"
+	}
+}
