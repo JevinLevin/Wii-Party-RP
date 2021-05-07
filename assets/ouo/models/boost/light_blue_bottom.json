@@ -1,0 +1,6 @@
+{
+	"parent": "ouo:boost/parent_bottom",
+	"textures": {
+		"0": "ouo:boost/shulker_light_blue"
+	}
+}

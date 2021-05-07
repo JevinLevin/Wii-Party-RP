@@ -53,6 +53,14 @@
 		{"predicate": {"custom_model_data": 165},"model": "ouo:dice/dino/5"},
 		{"predicate": {"custom_model_data": 166},"model": "ouo:dice/dino/6"},
 
+		{"predicate": {"custom_model_data": 200},"model": "ouo:misc/tv_remote"},
+
+		{"predicate": {"custom_model_data": 300},"model": "ouo:boost/red_bottom"},
+		{"predicate": {"custom_model_data": 301},"model": "ouo:boost/red_top"},
+		{"predicate": {"custom_model_data": 302},"model": "ouo:boost/lime_bottom"},
+		{"predicate": {"custom_model_data": 303},"model": "ouo:boost/lime_top"},
+		{"predicate": {"custom_model_data": 304},"model": "ouo:boost/light_blue_bottom"},
+		{"predicate": {"custom_model_data": 305},"model": "ouo:boost/light_blue_top"},
 
 		{"predicate": {"custom_model_data": 1001},"model": "ouo:propeller/propeller_1"},
 		{"predicate": {"custom_model_data": 1002},"model": "ouo:propeller/propeller_2"},
