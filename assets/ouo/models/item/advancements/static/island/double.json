@@ -1,8 +1,8 @@
 {
 	"credit": "OuO + ByTatami43",
 	"textures": {
-		"0": "ouo:item/dice_white",
-		"particle": "ouo:item/dice_white"
+		"0": "ouo:dice/white",
+		"particle": "ouo:dice/white"
 	},
 	"elements": [
 		{

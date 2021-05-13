@@ -1,10 +1,10 @@
 {
 	"credit": "Made by T4Bl3rUs",
-	"parent": "ouo:item/parent_propeller",
+	"parent": "ouo:propeller/parent",
 	"texture_size": [32, 32],
 	"textures": {
 		"10": "ouo:item/advancements/dicey_descent/dicey_descent",
-		"particle": "ouo:item/propeller"
+		"particle": "ouo:propeller/body"
 	},
 	"elements": [
 		{

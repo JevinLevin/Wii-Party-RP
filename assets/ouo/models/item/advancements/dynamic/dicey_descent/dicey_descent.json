@@ -1,12 +1,12 @@
 {
 	"credit": "OuO + T4Bl3rUs",
-	"parent": "ouo:item/parent_propeller",
+	"parent": "ouo:propeller/parent",
 	"texture_size": [32, 32],
 	"textures": {
 		"10": "ouo:item/advancements/dicey_descent/dicey_descent",
-		"4_1": "ouo:item/propeller_a",
-		"particle": "ouo:item/propeller",
-		"4_3": "ouo:item/propeller"
+		"4_1": "ouo:propeller/fan",
+		"particle": "ouo:propeller/body",
+		"4_3": "ouo:propeller/body"
 	},
 	"elements": [
 		{

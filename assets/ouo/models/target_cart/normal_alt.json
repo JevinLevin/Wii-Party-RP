@@ -1,0 +1,7 @@
+{
+	"credit": "Made by OuOuo Workshop, and big thx to Jannis!",
+	"parent": "ouo:target_cart/parent_alt",
+	"textures": {
+		"3": "ouo:target_cart/normal_alt"
+	}
+}
