@@ -1,0 +1,14 @@
+{
+	"providers":[
+		{
+			"type":"bitmap",
+			"file":"ouo:font/example_nerko_one.png",
+			"height":16,
+			"ascent":0,
+			"chars":[
+				"01234567",
+				"89+-.,?!"
+			]
+		}
+	]
+}
