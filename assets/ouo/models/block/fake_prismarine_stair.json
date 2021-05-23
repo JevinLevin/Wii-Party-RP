@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": {
+      "bottom": "minecraft:block/prismarine_bricks",
+      "top": "minecraft:block/prismarine_bricks",
+      "side": "minecraft:block/prismarine_bricks"
+    },
+    "display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2.00391, 2.00391, 2.00391]
+		}
+	}
+  } 

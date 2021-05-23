@@ -70,7 +70,9 @@
 		{"predicate": {"custom_model_data": 4001},"model": "ouo:misc/shiny_s"},
 
 		{"predicate": {"custom_model_data": 5001},"model": "ouo:detonator/normal"},
-		{"predicate": {"custom_model_data": 5002},"model": "ouo:detonator/pushed"}
+		{"predicate": {"custom_model_data": 5002},"model": "ouo:detonator/pushed"},
+
+		{"predicate": {"custom_model_data": 26001},"model": "ouo:block/fake_prismarine_stair"}
 
 	]
 }
