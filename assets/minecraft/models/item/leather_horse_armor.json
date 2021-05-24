@@ -8,6 +8,8 @@
 		{"predicate": {"custom_model_data": 2},"model": "ouo:target_cart/animated"},
 		{"predicate": {"custom_model_data": 3},"model": "ouo:target_cart/normal_alt"},
 		
+		{"predicate": {"custom_model_data": 10},"model": "ouo:misc/hammer"},
+		
 
 		{"predicate": {"custom_model_data": 501},"model": "ouo:block/firework/long_thin_bottom_p1"},
 		{"predicate": {"custom_model_data": 502},"model": "ouo:block/firework/long_thin_bottom_p2"},
