@@ -3,8 +3,8 @@
 		{
 			"type":"bitmap",
 			"file":"ouo:font/example_nerko_one_256_outline.png",
-			"height":32,
-			"ascent":16,
+			"height":48,
+			"ascent":20,
 			"chars":[
 				"01234567",
 				"89+-.,?!"
