@@ -1,0 +1,6 @@
+{
+	"parent": "ouo:mole/parent",
+	"textures": {
+		"0": "mole/golden"
+	}
+}

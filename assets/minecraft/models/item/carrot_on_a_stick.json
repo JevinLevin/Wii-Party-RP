@@ -72,7 +72,9 @@
 		{"predicate": {"custom_model_data": 5001},"model": "ouo:detonator/normal"},
 		{"predicate": {"custom_model_data": 5002},"model": "ouo:detonator/pushed"},
 
-		{"predicate": {"custom_model_data": 26001},"model": "ouo:block/fake_prismarine_stair"}
+		{"predicate": {"custom_model_data": 26001},"model": "ouo:block/fake_prismarine_stair"},
+		{"predicate": {"custom_model_data": 26010},"model": "ouo:mole/normal"},
+		{"predicate": {"custom_model_data": 26011},"model": "ouo:mole/golden"}
 
 	]
 }
