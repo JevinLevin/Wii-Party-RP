@@ -74,7 +74,8 @@
 
 		{"predicate": {"custom_model_data": 26001},"model": "ouo:block/fake_prismarine_stair"},
 		{"predicate": {"custom_model_data": 26010},"model": "ouo:mole/normal"},
-		{"predicate": {"custom_model_data": 26011},"model": "ouo:mole/golden"}
+		{"predicate": {"custom_model_data": 26011},"model": "ouo:mole/golden"},
+		{"predicate": {"custom_model_data": 26012},"model": "ouo:mole/sus"}
 
 	]
 }
