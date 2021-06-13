@@ -1,0 +1,155 @@
+{
+	"parent": "minecraft:item/magenta_dye",
+	"textures": {
+		"layer0": "item/magenta_dye"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "ouo:friendly_faceoff/set_1/blue/1"},
+		{"predicate": {"custom_model_data": 2},"model": "ouo:friendly_faceoff/set_1/blue/2"},
+		{"predicate": {"custom_model_data": 3},"model": "ouo:friendly_faceoff/set_1/blue/3"},
+		{"predicate": {"custom_model_data": 4},"model": "ouo:friendly_faceoff/set_1/blue/4"},
+		{"predicate": {"custom_model_data": 5},"model": "ouo:friendly_faceoff/set_1/blue/5"},
+		{"predicate": {"custom_model_data": 6},"model": "ouo:friendly_faceoff/set_1/blue/6"},
+
+		{"predicate": {"custom_model_data": 7},"model": "ouo:friendly_faceoff/set_1/green/1"},
+		{"predicate": {"custom_model_data": 8},"model": "ouo:friendly_faceoff/set_1/green/2"},
+		{"predicate": {"custom_model_data": 9},"model": "ouo:friendly_faceoff/set_1/green/3"},
+		{"predicate": {"custom_model_data": 10},"model": "ouo:friendly_faceoff/set_1/green/4"},
+		{"predicate": {"custom_model_data": 11},"model": "ouo:friendly_faceoff/set_1/green/5"},
+		{"predicate": {"custom_model_data": 12},"model": "ouo:friendly_faceoff/set_1/green/6"},
+
+		{"predicate": {"custom_model_data": 13},"model": "ouo:friendly_faceoff/set_1/yellow/1"},
+		{"predicate": {"custom_model_data": 14},"model": "ouo:friendly_faceoff/set_1/yellow/2"},
+		{"predicate": {"custom_model_data": 15},"model": "ouo:friendly_faceoff/set_1/yellow/3"},
+		{"predicate": {"custom_model_data": 16},"model": "ouo:friendly_faceoff/set_1/yellow/4"},
+		{"predicate": {"custom_model_data": 17},"model": "ouo:friendly_faceoff/set_1/yellow/5"},
+		{"predicate": {"custom_model_data": 18},"model": "ouo:friendly_faceoff/set_1/yellow/6"},
+
+		{"predicate": {"custom_model_data": 19},"model": "ouo:friendly_faceoff/set_1/red/1"},
+		{"predicate": {"custom_model_data": 20},"model": "ouo:friendly_faceoff/set_1/red/2"},
+		{"predicate": {"custom_model_data": 21},"model": "ouo:friendly_faceoff/set_1/red/3"},
+		{"predicate": {"custom_model_data": 22},"model": "ouo:friendly_faceoff/set_1/red/4"},
+		{"predicate": {"custom_model_data": 23},"model": "ouo:friendly_faceoff/set_1/red/5"},
+		{"predicate": {"custom_model_data": 24},"model": "ouo:friendly_faceoff/set_1/red/6"},
+
+
+
+		{"predicate": {"custom_model_data": 25},"model": "ouo:friendly_faceoff/set_2/blue/1"},
+		{"predicate": {"custom_model_data": 26},"model": "ouo:friendly_faceoff/set_2/blue/2"},
+		{"predicate": {"custom_model_data": 27},"model": "ouo:friendly_faceoff/set_2/blue/3"},
+		{"predicate": {"custom_model_data": 28},"model": "ouo:friendly_faceoff/set_2/blue/4"},
+		{"predicate": {"custom_model_data": 29},"model": "ouo:friendly_faceoff/set_2/blue/5"},
+		{"predicate": {"custom_model_data": 30},"model": "ouo:friendly_faceoff/set_2/blue/6"},
+
+		{"predicate": {"custom_model_data": 31},"model": "ouo:friendly_faceoff/set_2/green/1"},
+		{"predicate": {"custom_model_data": 32},"model": "ouo:friendly_faceoff/set_2/green/2"},
+		{"predicate": {"custom_model_data": 33},"model": "ouo:friendly_faceoff/set_2/green/3"},
+		{"predicate": {"custom_model_data": 34},"model": "ouo:friendly_faceoff/set_2/green/4"},
+		{"predicate": {"custom_model_data": 35},"model": "ouo:friendly_faceoff/set_2/green/5"},
+		{"predicate": {"custom_model_data": 36},"model": "ouo:friendly_faceoff/set_2/green/6"},
+
+		{"predicate": {"custom_model_data": 37},"model": "ouo:friendly_faceoff/set_2/yellow/1"},
+		{"predicate": {"custom_model_data": 38},"model": "ouo:friendly_faceoff/set_2/yellow/2"},
+		{"predicate": {"custom_model_data": 39},"model": "ouo:friendly_faceoff/set_2/yellow/3"},
+		{"predicate": {"custom_model_data": 40},"model": "ouo:friendly_faceoff/set_2/yellow/4"},
+		{"predicate": {"custom_model_data": 41},"model": "ouo:friendly_faceoff/set_2/yellow/5"},
+		{"predicate": {"custom_model_data": 42},"model": "ouo:friendly_faceoff/set_2/yellow/6"},
+
+		{"predicate": {"custom_model_data": 43},"model": "ouo:friendly_faceoff/set_2/red/1"},
+		{"predicate": {"custom_model_data": 44},"model": "ouo:friendly_faceoff/set_2/red/2"},
+		{"predicate": {"custom_model_data": 45},"model": "ouo:friendly_faceoff/set_2/red/3"},
+		{"predicate": {"custom_model_data": 46},"model": "ouo:friendly_faceoff/set_2/red/4"},
+		{"predicate": {"custom_model_data": 47},"model": "ouo:friendly_faceoff/set_2/red/5"},
+		{"predicate": {"custom_model_data": 48},"model": "ouo:friendly_faceoff/set_2/red/6"},
+
+
+
+		{"predicate": {"custom_model_data": 49},"model": "ouo:friendly_faceoff/set_3/blue/1"},
+		{"predicate": {"custom_model_data": 50},"model": "ouo:friendly_faceoff/set_3/blue/2"},
+		{"predicate": {"custom_model_data": 51},"model": "ouo:friendly_faceoff/set_3/blue/3"},
+		{"predicate": {"custom_model_data": 52},"model": "ouo:friendly_faceoff/set_3/blue/4"},
+		{"predicate": {"custom_model_data": 53},"model": "ouo:friendly_faceoff/set_3/blue/5"},
+		{"predicate": {"custom_model_data": 54},"model": "ouo:friendly_faceoff/set_3/blue/6"},
+
+		{"predicate": {"custom_model_data": 55},"model": "ouo:friendly_faceoff/set_3/green/1"},
+		{"predicate": {"custom_model_data": 56},"model": "ouo:friendly_faceoff/set_3/green/2"},
+		{"predicate": {"custom_model_data": 57},"model": "ouo:friendly_faceoff/set_3/green/3"},
+		{"predicate": {"custom_model_data": 58},"model": "ouo:friendly_faceoff/set_3/green/4"},
+		{"predicate": {"custom_model_data": 59},"model": "ouo:friendly_faceoff/set_3/green/5"},
+		{"predicate": {"custom_model_data": 60},"model": "ouo:friendly_faceoff/set_3/green/6"},
+
+		{"predicate": {"custom_model_data": 61},"model": "ouo:friendly_faceoff/set_3/yellow/1"},
+		{"predicate": {"custom_model_data": 62},"model": "ouo:friendly_faceoff/set_3/yellow/2"},
+		{"predicate": {"custom_model_data": 63},"model": "ouo:friendly_faceoff/set_3/yellow/3"},
+		{"predicate": {"custom_model_data": 64},"model": "ouo:friendly_faceoff/set_3/yellow/4"},
+		{"predicate": {"custom_model_data": 65},"model": "ouo:friendly_faceoff/set_3/yellow/5"},
+		{"predicate": {"custom_model_data": 66},"model": "ouo:friendly_faceoff/set_3/yellow/6"},
+
+		{"predicate": {"custom_model_data": 67},"model": "ouo:friendly_faceoff/set_3/red/1"},
+		{"predicate": {"custom_model_data": 68},"model": "ouo:friendly_faceoff/set_3/red/2"},
+		{"predicate": {"custom_model_data": 69},"model": "ouo:friendly_faceoff/set_3/red/3"},
+		{"predicate": {"custom_model_data": 70},"model": "ouo:friendly_faceoff/set_3/red/4"},
+		{"predicate": {"custom_model_data": 71},"model": "ouo:friendly_faceoff/set_3/red/5"},
+		{"predicate": {"custom_model_data": 72},"model": "ouo:friendly_faceoff/set_3/red/6"},
+
+
+
+		{"predicate": {"custom_model_data": 73},"model": "ouo:friendly_faceoff/set_4/blue/1"},
+		{"predicate": {"custom_model_data": 74},"model": "ouo:friendly_faceoff/set_4/blue/2"},
+		{"predicate": {"custom_model_data": 75},"model": "ouo:friendly_faceoff/set_4/blue/3"},
+		{"predicate": {"custom_model_data": 76},"model": "ouo:friendly_faceoff/set_4/blue/4"},
+		{"predicate": {"custom_model_data": 77},"model": "ouo:friendly_faceoff/set_4/blue/5"},
+		{"predicate": {"custom_model_data": 78},"model": "ouo:friendly_faceoff/set_4/blue/6"},
+
+		{"predicate": {"custom_model_data": 79},"model": "ouo:friendly_faceoff/set_4/green/1"},
+		{"predicate": {"custom_model_data": 80},"model": "ouo:friendly_faceoff/set_4/green/2"},
+		{"predicate": {"custom_model_data": 81},"model": "ouo:friendly_faceoff/set_4/green/3"},
+		{"predicate": {"custom_model_data": 82},"model": "ouo:friendly_faceoff/set_4/green/4"},
+		{"predicate": {"custom_model_data": 83},"model": "ouo:friendly_faceoff/set_4/green/5"},
+		{"predicate": {"custom_model_data": 84},"model": "ouo:friendly_faceoff/set_4/green/6"},
+
+		{"predicate": {"custom_model_data": 85},"model": "ouo:friendly_faceoff/set_4/yellow/1"},
+		{"predicate": {"custom_model_data": 86},"model": "ouo:friendly_faceoff/set_4/yellow/2"},
+		{"predicate": {"custom_model_data": 87},"model": "ouo:friendly_faceoff/set_4/yellow/3"},
+		{"predicate": {"custom_model_data": 88},"model": "ouo:friendly_faceoff/set_4/yellow/4"},
+		{"predicate": {"custom_model_data": 89},"model": "ouo:friendly_faceoff/set_4/yellow/5"},
+		{"predicate": {"custom_model_data": 90},"model": "ouo:friendly_faceoff/set_4/yellow/6"},
+
+		{"predicate": {"custom_model_data": 91},"model": "ouo:friendly_faceoff/set_4/red/1"},
+		{"predicate": {"custom_model_data": 92},"model": "ouo:friendly_faceoff/set_4/red/2"},
+		{"predicate": {"custom_model_data": 93},"model": "ouo:friendly_faceoff/set_4/red/3"},
+		{"predicate": {"custom_model_data": 94},"model": "ouo:friendly_faceoff/set_4/red/4"},
+		{"predicate": {"custom_model_data": 95},"model": "ouo:friendly_faceoff/set_4/red/5"},
+		{"predicate": {"custom_model_data": 96},"model": "ouo:friendly_faceoff/set_4/red/6"},
+
+
+
+		{"predicate": {"custom_model_data": 97},"model": "ouo:friendly_faceoff/set_5/blue/1"},
+		{"predicate": {"custom_model_data": 98},"model": "ouo:friendly_faceoff/set_5/blue/2"},
+		{"predicate": {"custom_model_data": 99},"model": "ouo:friendly_faceoff/set_5/blue/3"},
+		{"predicate": {"custom_model_data": 100},"model": "ouo:friendly_faceoff/set_5/blue/4"},
+		{"predicate": {"custom_model_data": 101},"model": "ouo:friendly_faceoff/set_5/blue/5"},
+		{"predicate": {"custom_model_data": 102},"model": "ouo:friendly_faceoff/set_5/blue/6"},
+
+		{"predicate": {"custom_model_data": 103},"model": "ouo:friendly_faceoff/set_5/green/1"},
+		{"predicate": {"custom_model_data": 104},"model": "ouo:friendly_faceoff/set_5/green/2"},
+		{"predicate": {"custom_model_data": 105},"model": "ouo:friendly_faceoff/set_5/green/3"},
+		{"predicate": {"custom_model_data": 106},"model": "ouo:friendly_faceoff/set_5/green/4"},
+		{"predicate": {"custom_model_data": 107},"model": "ouo:friendly_faceoff/set_5/green/5"},
+		{"predicate": {"custom_model_data": 108},"model": "ouo:friendly_faceoff/set_5/green/6"},
+
+		{"predicate": {"custom_model_data": 109},"model": "ouo:friendly_faceoff/set_5/yellow/1"},
+		{"predicate": {"custom_model_data": 110},"model": "ouo:friendly_faceoff/set_5/yellow/2"},
+		{"predicate": {"custom_model_data": 111},"model": "ouo:friendly_faceoff/set_5/yellow/3"},
+		{"predicate": {"custom_model_data": 112},"model": "ouo:friendly_faceoff/set_5/yellow/4"},
+		{"predicate": {"custom_model_data": 113},"model": "ouo:friendly_faceoff/set_5/yellow/5"},
+		{"predicate": {"custom_model_data": 114},"model": "ouo:friendly_faceoff/set_5/yellow/6"},
+
+		{"predicate": {"custom_model_data": 115},"model": "ouo:friendly_faceoff/set_5/red/1"},
+		{"predicate": {"custom_model_data": 116},"model": "ouo:friendly_faceoff/set_5/red/2"},
+		{"predicate": {"custom_model_data": 117},"model": "ouo:friendly_faceoff/set_5/red/3"},
+		{"predicate": {"custom_model_data": 118},"model": "ouo:friendly_faceoff/set_5/red/4"},
+		{"predicate": {"custom_model_data": 119},"model": "ouo:friendly_faceoff/set_5/red/5"},
+		{"predicate": {"custom_model_data": 120},"model": "ouo:friendly_faceoff/set_5/red/6"}
+	]
+}
