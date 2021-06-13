@@ -119,6 +119,8 @@
     "games.MazeDaze.GetBack": "Get back in your minecart!",
 
     "game.HammerHeadsName": "Hammer Heads",
+    "game.HammerHeads.HammerName": "Whack Hammer",
+    "game.HammerHeads.HammerLore": "It's comically large!",
 
     "game.FriendlyFaceOffName": "Friendly Face-Off",
     "game.FriendlyFaceOff": "\n§l§nFriendly Face-Off§r\n\n§7§lHow To Play:§r\n§7 - Rearrange the maps to mimic the image displayed\n - You may need to change both their place and rotation\n - First player to finish their map wins!\n",
