@@ -26,6 +26,8 @@
     "generic.Placeholder": "%s",
     "generic.TimeLeft": "Time Left",
     "generic.Error.Alone": "You can't play this game alone",
+    "generic.Book.Play":"§l§nPlay",
+    "generic.Book.Practice":"§l§nPractice",
 
 
 
@@ -121,6 +123,8 @@
     "game.HammerHeadsName": "Hammer Heads",
     "game.HammerHeads.HammerName": "Whack Hammer",
     "game.HammerHeads.HammerLore": "It's comically large!",
+    "game.HammerHeads.Book.Title": "§l§nHammer Heads",
+    "game.HammerHeads.Book.Tutorial1": "§n(tutorial text)",
 
     "game.FriendlyFaceOffName": "Friendly Face-Off",
     "game.FriendlyFaceOff": "\n§l§nFriendly Face-Off§r\n\n§7§lHow To Play:§r\n§7 - Rearrange the maps to mimic the image displayed\n - You may need to change both their place and rotation\n - First player to finish their map wins!\n",
@@ -307,10 +311,15 @@
     "advancements.island.tripleDesc": "Roll the same number in all 3 dice",
     "advancements.island.volcano": "Uh Oh",
     "advancements.island.volcanoDesc": "Make volcano go brrr",
+    "advancements.island.phil": "Piping hot Party Popping Pirate Phil",
+    "advancements.island.philDesc": "Find the mascot at shitmansion!",
+    "advancements.island.matt": "7x Boxing Champion",
+    "advancements.island.mattDesc": "Meet the champion atop the volcano!",
+
 
     "advancements.dicey.root": "Dicey Descent",
     "advancements.dicey.clutch": "Clutch",
-    "advancements.dicey.clutchDesc": "Win after getting hut the first round",
+    "advancements.dicey.clutchDesc": "Win after getting hit the first round",
     "advancements.dicey.perfect": "Perfect Game",
     "advancements.dicey.perfectDesc": "Don't get hit by lightning",
 
