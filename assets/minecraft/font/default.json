@@ -38,8 +38,8 @@
         {
             "type": "bitmap",
             "file": "tutorials:border.png",
-            "ascent": 62,
-            "height": 65,
+            "ascent": 55,
+            "height": 116,
             "chars": ["\uE005"]
         }, 
 
