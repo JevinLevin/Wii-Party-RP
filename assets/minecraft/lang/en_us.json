@@ -30,6 +30,19 @@
     "generic.Book.Practice":"§l§nPractice",
 
 
+    "generic.Practice.Round": "Practice round ",
+    "generic.Practice.1/3": "(1/3): ",
+    "generic.Practice.2/3": "(2/3): ",
+    "generic.Practice.3/3": "(3/3): ",
+    "generic.Practice.1/2": "(1/2): ",
+    "generic.Practice.2/2": "(2/2): ",
+    "generic.Practice.1/1": "(1/1): ",
+    "generic.Practice.Accept": "[ACCEPT]",
+    "generic.Practice.Deny": "[DENY]",
+    "generic.Practice.Starting": "Practice round starting",
+    "generic.Practice.Cancelled": "Practice round cancelled",
+
+
 
     "game.GoalGettersName": "Goal Getters",
     "game.GoalGetters": "\n§l§nGoal Getters§r   \n\n§7§lHow To Play:§r   \n§7 - Balls of different sizes will be flung at you   \n - Make sure you kick/punch the ball into the goal   \n - The player with the most goals wins!\n",
