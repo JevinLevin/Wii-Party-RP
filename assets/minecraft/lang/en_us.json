@@ -31,22 +31,22 @@
 
     "generic.Book.Play":"§l§nPlay",
     "generic.Book.Practice":"§l§nPractice",
+    "generic.Book.PracticeOptions":"Practice §r%1$s §r§7- §r%2$s",
+    "generic.Book.Cancel": "§l§nCancel - %s",
     "generic.Book.Tutorial": "§n%1$s   %2$s   %3$s",
-    "generic.Book.Tutorial.WithHover": "§n%4$s §n%5$s§n%1$s   %2$s   %3$s",
-    "generic.Book.Tutorial.Hover": "Hover",
 
 
-    "generic.Practice.Round": "Practice round (%1$s/%2$s): %3$s %4$s %5$s",
-    "generic.Practice.Accept": "[ACCEPT]",
-    "generic.Practice.Deny": "[DENY]",
+    "generic.Practice.Round": "Practice round (%1$s/%2$s): %3$s",
     "generic.Practice.Starting": "Practice round starting",
-    "generic.Practice.Cancelled": "Practice round cancelled",
-    "generic.Practice.HasStarted": "%s has chosen to start the game",
-    "generic.Practice.ClickTo": "[Click here to cancel the countdown]",
-    "generic.Practice.StopCountdown": "%s has stopped the countdown",
     "generic.Practice.GameStarting": "Game Starting...",
+    "generic.Practice.ViewOptions": "%s to view start screen",
+    "generic.Practice.RoundOver": "Practice round over!",
+    "generic.Practice.Disabled": "Option disabled",
+    "generic.Practice.Disabled.Practice": "Option disabled. Cancel the practice round to reenable it",
+    "generic.Practice.Disabled.Play": "Option disabled. Click \"Cancel\" to reenable it",
 
 
+    "generic.Play.Countdown": "Game starting - %s",
 
 
     "game.GoalGettersName": "Goal Getters",
@@ -234,6 +234,13 @@
     "game.HideNPeek.messages.LsPs5": "%2$s had %3$s players, but %1$s's lives just dropped to §c%4$s",
     "game.HideNPeek.Error.NoSeeker": "The game can't start (no seeker has been selected)",
 
+    "game.ChannelChangersName": "Channel Changers",
+    "game.ChannelChangers.RemoteName": "Remote",
+    "game.ChannelChangers.RemoteLore": "WiiMart™",
+    "game.ChannelChangers.Book.Title": "§l§nChannel Changers",
+    "game.ChannelChangers.Book.Tutorial1": "Try to get all the TVs to look as the centre one.",
+    "game.ChannelChangers.Book.Tutorial2": "Aim to a TV with your remote and right click to change the channel.",
+
 
     "board.DiceRoll.Invalid": "You aren't in a correct position to throw this item.",
     "board.DiceRoll.OutOfBounds": "Please don't go out of bounds of your tile.",
@@ -368,5 +375,10 @@
     "block.minecraft.bed.too_far_away": "",
     "block.minecraft.bed.not_safe": "",
     "block.minecraft.spawn.not_valid": "",
-    "block.minecraft.set_spawn": ""
+    "block.minecraft.set_spawn": "",
+    "commands.trigger.failed.unprimed": "Button disabled",
+    "commands.trigger.simple.success": "",
+    "commands.trigger.add.success": "",
+    "commands.trigger.set.success": "",
+    "book.pageIndicator": ""
 }
