@@ -4,11 +4,24 @@
 		"layer0": "item/yellow_wool"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 2},"model": "ouo:item/advancements/static/island/island"},
+		{"predicate": {"custom_model_data": 3},"model": "ouo:item/advancements/static/island/big_leap"},
 		{"predicate": {"custom_model_data": 4},"model": "ouo:item/advancements/static/island/double"},
 		{"predicate": {"custom_model_data": 5},"model": "ouo:item/advancements/static/island/triple"},
+
 		{"predicate": {"custom_model_data": 6},"model": "ouo:item/advancements/static/dicey_descent/dicey_descent"},
 		{"predicate": {"custom_model_data": 7},"model": "ouo:item/advancements/static/dicey_descent/clutch"},
 		{"predicate": {"custom_model_data": 8},"model": "ouo:item/advancements/static/dicey_descent/perfect"},
-		{"predicate": {"custom_model_data": 9},"model": "minecraft:item/yellow_wool"}
+
+		{"predicate": {"custom_model_data": 9},"model": "ouo:item/advancements/static/island/uh_oh"},
+
+		{"predicate": {"custom_model_data": 10},"model": "ouo:item/advancements/static/barrel_daredevil/right_on_time"},
+
+		{"predicate": {"custom_model_data": 16},"model": "ouo:item/advancements/static/island/yikes"},
+		{"predicate": {"custom_model_data": 17},"model": "ouo:item/advancements/static/island/dice_diversity"},
+		{"predicate": {"custom_model_data": 18},"model": "ouo:item/advancements/static/island/tile_explorer"},
+
+
+		{"predicate": {"custom_model_data": 19},"model": "minecraft:item/yellow_wool"}
 	]
 }
