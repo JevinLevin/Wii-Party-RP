@@ -16,12 +16,13 @@
 		{"predicate": {"custom_model_data": 9},"model": "ouo:item/advancements/static/island/uh_oh"},
 
 		{"predicate": {"custom_model_data": 10},"model": "ouo:item/advancements/static/barrel_daredevil/right_on_time"},
+		{"predicate": {"custom_model_data": 11},"model": "ouo:item/advancements/static/barrel_daredevil/sixth_sense"},
 
 		{"predicate": {"custom_model_data": 16},"model": "ouo:item/advancements/static/island/yikes"},
 		{"predicate": {"custom_model_data": 17},"model": "ouo:item/advancements/static/island/dice_diversity"},
 		{"predicate": {"custom_model_data": 18},"model": "ouo:item/advancements/static/island/tile_explorer"},
+		{"predicate": {"custom_model_data": 19},"model": "ouo:item/advancements/static/island/drats"},
 
-
-		{"predicate": {"custom_model_data": 19},"model": "minecraft:item/yellow_wool"}
+		{"predicate": {"custom_model_data": 20},"model": "minecraft:item/yellow_wool"}
 	]
 }
