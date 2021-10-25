@@ -28,13 +28,11 @@
     "generic.Error.Alone": "You can't play this game alone",
     "generic.Hover.ClickTo": "Click Here",
 
-
     "generic.Book.Play":"§l§nPlay",
     "generic.Book.Practice":"§l§nPractice",
     "generic.Book.PracticeOptions":"Practice §r%1$s §r§7- §r%2$s",
     "generic.Book.Cancel": "§l§nCancel - %s",
     "generic.Book.Tutorial": "§n%1$s   %2$s   %3$s",
-
 
     "generic.Practice.Round": "Practice round (%1$s/%2$s): %3$s",
     "generic.Practice.Starting": "Practice round starting",
@@ -45,8 +43,18 @@
     "generic.Practice.Disabled.Practice": "Option disabled. Cancel the practice round to reenable it",
     "generic.Practice.Disabled.Play": "Option disabled. Click \"Cancel\" to reenable it",
 
-
     "generic.Play.Countdown": "Game starting - %s",
+
+
+    "game.mods.title": "Game Modifiers",
+    "game.mods.desc": "(Practice mode only)",
+    "game.mods.unknown": "???",
+    "game.mods.event_exclusive": "This modifier can only be unlocked in the %s event",
+    "game.mods.unlocked_by": "Unlocked by %s",
+    "game.mods.keep_playing": "Keep playing to unlock this modifier\nThere is a %s chance to get it every round",
+    "game.mods.default": "%s (default)",
+
+    "game.mods.events.island_quests": "Island Quests",
 
 
     "game.GoalGettersName": "Goal Getters",
@@ -102,6 +110,7 @@
     "deathMessages.BarrelDaredevil7": "%s has major input lag",
     "deathMessages.BarrelDaredevil8": "%s would suck at find the button",
 
+
     "game.BackAttackName": "Back Attack",
     "game.BackAttack": "\n§l§nBack Attack§r   \n\n§7§lHow To Play:§r   \n§7 - Press your left or right key to change directions at the next turn  \n - Right click to shoot, try to hit the back of your opponents   \n - The last player standing wins!\n",
     "game.BackAttack.Turning": "You are turning ",
@@ -130,13 +139,16 @@
     "deathMessages.BackAttack.Disqual7": "Everyone laugh at %s, he tried to cheat!",
     "deathMessages.BackAttack.Disqual8": "%s needs to read the rule book again",
 
+
     "game.LuckyLaunch.ToSelectFirework": "%s to select this firework!",
     "game.LuckyLaunch.ChosenFirework": "Everyone has chosen their fireworks",
     "game.LuckyLaunch.RightClickToLight": "Go to your firework and %s to light it!",
 
+
     "game.MazeDazeName": "Maze Daze",
     "game.MazeDaze": "\n§l§nMaze Daze§r\n\n§7§lHow To Play:§r\n§7 - Find your way through the maze\n - Be careful as pads on the floor can change your controls\n - First player to get to the centre wins!\n",
     "games.MazeDaze.GetBack": "Get back in your minecart!",
+
 
     "game.HammerHeadsName": "Hammer Heads",
     "game.HammerHeads.HammerName": "Whack Hammer",
@@ -145,6 +157,7 @@
     "game.HammerHeads.Book.Tutorial1": "Hit the moles with your hammer to earn points.",
     "game.HammerHeads.Book.Tutorial2": "Brown ones give 1 point, golden ones give 3.",
     "game.HammerHeads.Book.Tutorial3": "Hit other players to knock them down temporarily.",
+
 
     "game.FriendlyFaceOffName": "Friendly Face-Off",
     "game.FriendlyFaceOff": "\n§l§nFriendly Face-Off§r\n\n§7§lHow To Play:§r\n§7 - Rearrange the maps to mimic the image displayed\n - You may need to change both their place and rotation\n - First player to finish their map wins!\n",
@@ -234,12 +247,36 @@
     "game.HideNPeek.messages.LsPs5": "%2$s had %3$s players, but %1$s's lives just dropped to §c%4$s",
     "game.HideNPeek.Error.NoSeeker": "The game can't start (no seeker has been selected)",
 
+
     "game.ChannelChangersName": "Channel Changers",
     "game.ChannelChangers.RemoteName": "Remote",
     "game.ChannelChangers.RemoteLore": "WiiMart™",
     "game.ChannelChangers.Book.Title": "§l§nChannel Changers",
     "game.ChannelChangers.Book.Tutorial1": "Try to get all the TVs to look as the centre one.",
     "game.ChannelChangers.Book.Tutorial2": "Aim to a TV with your remote and right click to change the channel.",
+
+
+    "game.ShutterpupName": "Channel Changers",
+    "game.Shutterpup.CameraName": "Camera",
+    "game.Shutterpup.CameraLore": "Right click to shoot",
+    "game.Shutterpup.Remaining": "Remaining",
+    "game.Shutterpup.Cooldown": "Cooldown",
+    "game.Shutterpup.Book.Title": "§l§nShutterpup",
+    "game.Shutterpup.Book.Tutorial1": "Right click with your camera to take a photo.",
+    "game.Shutterpup.Book.Tutorial2": "The target animal must be in the centre of your image.",
+    "game.Shutterpup.Book.Tutorial3": "The closest the entity gets to you, the more precise you need to be.",
+
+    "game.Shutterpup.mods.time.title": "Game Duration",
+    "game.Shutterpup.mods.time.desc": "The shooting phase will last %s",
+    "game.Shutterpup.mods.time.30s": "30s",
+    "game.Shutterpup.mods.time.45s": "45s",
+    "game.Shutterpup.mods.time.1m": "1m",
+    "game.Shutterpup.mods.time.2m": "2m",
+    "game.Shutterpup.mods.entity.title": "Entity",
+    "game.Shutterpup.mods.entity.desc": "The entity to photograph will be a %s",
+    "game.Shutterpup.mods.entity.dog": "Dog",
+    "game.Shutterpup.mods.entity.cat": "Cat",
+    "game.Shutterpup.mods.entity.fox": "Fox",
 
 
     "board.DiceRoll.Invalid": "You aren't in a correct position to throw this item.",
@@ -397,6 +434,7 @@
     "You need to enable the resourcepack to proceed.": "%s",
     " Resourcepack: [DOWNLOAD]": "%s",
 
+
     "container.isLocked": "",
     "key.mouse.right": "Right Click",
     "mount.onboard": "",
@@ -421,6 +459,7 @@
     "commands.trigger.add.success": "",
     "commands.trigger.set.success": "",
     "book.pageIndicator": "",
+
 
     "effect.minecraft.speed": "",
     "effect.minecraft.slowness": "",
@@ -454,6 +493,7 @@
     "effect.minecraft.dolphins_grace": "",
     "effect.minecraft.bad_omen": "",
     "effect.minecraft.hero_of_the_village": "",
+
     "potion.potency.0": "",
     "potion.potency.1": "",
     "potion.potency.2": "",

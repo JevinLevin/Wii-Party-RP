@@ -56,6 +56,8 @@
 
 		{"predicate": {"custom_model_data": 200},"model": "ouo:misc/tv_remote"},
 
+		{"predicate": {"custom_model_data": 205},"model": "ouo:misc/camera"},
+
 		{"predicate": {"custom_model_data": 300},"model": "ouo:boost/red_bottom"},
 		{"predicate": {"custom_model_data": 301},"model": "ouo:boost/red_top"},
 		{"predicate": {"custom_model_data": 302},"model": "ouo:boost/lime_bottom"},
