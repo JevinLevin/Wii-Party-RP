@@ -32,7 +32,7 @@
     "generic.Book.Practice":"§l§nPractice",
     "generic.Book.PracticeOptions":"Practice §r%1$s §r§7- §r%2$s",
     "generic.Book.Cancel": "§l§nCancel - %s",
-    "generic.Book.Tutorial": "§n%1$s   %2$s   %3$s",
+    "generic.Book.Tutorial": "§n%1$s   %2$s   %3$s",
 
     "generic.Practice.Round": "Practice round (%1$s/%2$s): %3$s",
     "generic.Practice.Starting": "Practice round starting",
@@ -53,6 +53,7 @@
     "game.mods.unlocked_by": "Unlocked by %s",
     "game.mods.keep_playing": "Keep playing to unlock this modifier\nThere is a %s chance to get it every round",
     "game.mods.default": "%s (default)",
+    "game.mods.unlock": "You have unlocked the %1$s%2$s%3$s modifier for %4$s!",
 
     "game.mods.events.island_quests": "Island Quests",
 
@@ -256,7 +257,7 @@
     "game.ChannelChangers.Book.Tutorial2": "Aim to a TV with your remote and right click to change the channel.",
 
 
-    "game.ShutterpupName": "Channel Changers",
+    "game.ShutterpupName": "Shutterpup",
     "game.Shutterpup.CameraName": "Camera",
     "game.Shutterpup.CameraLore": "Right click to shoot",
     "game.Shutterpup.Remaining": "Remaining",
@@ -273,6 +274,7 @@
     "game.Shutterpup.mods.time.1m": "1m",
     "game.Shutterpup.mods.time.2m": "2m",
     "game.Shutterpup.mods.entity.title": "Entity",
+    "game.Shutterpup.mods.entity.title_simple": "entity",
     "game.Shutterpup.mods.entity.desc": "The entity to photograph will be a %s",
     "game.Shutterpup.mods.entity.dog": "Dog",
     "game.Shutterpup.mods.entity.cat": "Cat",
