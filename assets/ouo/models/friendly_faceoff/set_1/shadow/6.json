@@ -1,9 +1,12 @@
 {
 	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ouo:friendly_faceoff/shadow"
+	},
 	"elements": [
 		{
 			"from": [6, 0, 10],
-			"to": [12, 0.5, 12],
+			"to": [12, 0.2, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [1, 5, 4, 6], "rotation": 180, "texture": "#0"},
@@ -16,7 +19,7 @@
 		},
 		{
 			"from": [8, 0, 12],
-			"to": [12, 0.5, 14],
+			"to": [12, 0.2, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [2, 6, 4, 7], "rotation": 180, "texture": "#0"},
@@ -29,7 +32,7 @@
 		},
 		{
 			"from": [10, 0, 14],
-			"to": [12, 0.5, 16],
+			"to": [12, 0.2, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [3, 7, 4, 8], "rotation": 180, "texture": "#0"},
@@ -42,7 +45,7 @@
 		},
 		{
 			"from": [4, 0, 0],
-			"to": [12, 0.5, 10],
+			"to": [12, 0.2, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 4, 1], "rotation": 180, "texture": "#0"},

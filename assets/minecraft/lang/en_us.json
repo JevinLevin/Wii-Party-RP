@@ -55,6 +55,7 @@
     "game.mods.default": "%s (default)",
     "game.mods.unlock": "You have unlocked the %1$s%2$s%3$s modifier for %4$s!",
 
+    "game.mods.events.placeholder": "{Placeholder}",
     "game.mods.events.island_quests": "Island Quests",
 
 
@@ -255,6 +256,12 @@
     "game.ChannelChangers.Book.Title": "§l§nChannel Changers",
     "game.ChannelChangers.Book.Tutorial1": "Try to get all the TVs to look as the centre one.",
     "game.ChannelChangers.Book.Tutorial2": "Aim to a TV with your remote and right click to change the channel.",
+
+    "game.ChannelChangers.mods.theme.title": "Theme",
+    "game.ChannelChangers.mods.theme.desc": "The theme for this game will be %s",
+    "game.ChannelChangers.mods.theme.title_simple": "theme",
+    "game.ChannelChangers.mods.theme.default": "Default",
+    "game.ChannelChangers.mods.theme.theme2": "{Theme 2 name}",
 
 
     "game.ShutterpupName": "Shutterpup",
@@ -501,5 +508,15 @@
     "potion.potency.2": "",
     "potion.potency.3": "",
     "potion.potency.4": "",
-    "potion.potency.5": ""
+    "potion.potency.5": "",
+    "enchantment.level.1": "",
+    "enchantment.level.2": "",
+    "enchantment.level.3": "",
+    "enchantment.level.4": "",
+    "enchantment.level.5": "",
+    "enchantment.level.6": "",
+    "enchantment.level.7": "",
+    "enchantment.level.8": "",
+    "enchantment.level.9": "",
+    "enchantment.level.10": ""
 }

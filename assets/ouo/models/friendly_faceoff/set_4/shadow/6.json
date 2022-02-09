@@ -1,9 +1,12 @@
 {
 	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ouo:friendly_faceoff/shadow"
+	},
 	"elements": [
 		{
 			"from": [4, 0, -4],
-			"to": [12, 0.5, 20],
+			"to": [12, 0.2, 20],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [12, 0, 16, 1], "rotation": 180, "texture": "#0"},
