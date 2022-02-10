@@ -1,0 +1,6 @@
+{
+	"parent": "ouo:friendly_faceoff/set_5/shadow/6",
+	"textures": {
+		"0": "ouo:friendly_faceoff/blue"
+	}
+}

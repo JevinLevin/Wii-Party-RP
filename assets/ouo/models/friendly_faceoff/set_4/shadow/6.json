@@ -1,12 +1,13 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by T4BlrUs",
 	"textures": {
-		"0": "ouo:friendly_faceoff/shadow"
+		"1": "ouo:friendly_faceoff/shadow",
+		"particle": "ouo:friendly_faceoff/shadow"
 	},
 	"elements": [
 		{
 			"from": [4, 0, -4],
-			"to": [12, 0.2, 20],
+			"to": [12, 0.5, 20],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"north": {"uv": [12, 0, 16, 1], "rotation": 180, "texture": "#0"},
@@ -15,6 +16,20 @@
 				"west": {"uv": [12, 0, 13, 12], "rotation": 270, "texture": "#0"},
 				"up": {"uv": [12, 0, 16, 12], "texture": "#0"},
 				"down": {"uv": [12, 12, 16, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "shadow",
+			"from": [4, -0.8, -4],
+			"to": [12, -0.6, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [12, 0, 16, 1], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [15, 0, 16, 12], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [12, 11, 16, 12], "texture": "#1"},
+				"west": {"uv": [12, 0, 13, 12], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [12, 0, 16, 12], "texture": "#1"},
+				"down": {"uv": [12, 12, 16, 0], "texture": "#1"}
 			}
 		}
 	],

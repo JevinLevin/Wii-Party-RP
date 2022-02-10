@@ -1,5 +1,5 @@
 {
-	"credit": "Made by T4Bl3rUs",
+	"credit": "Made by T4BlrUs",
 	"elements": [
 		{
 			"from": [8, 0, 8],
@@ -109,6 +109,7 @@
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4]
 		}
 	]
