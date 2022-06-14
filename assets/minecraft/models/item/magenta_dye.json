@@ -302,9 +302,9 @@
 		{"predicate": {"custom_model_data": 240},"model": "ouo:friendly_faceoff/set_5/shadow/yellow/6"},
 
 
-		{"predicate": {"custom_model_data": 1000},"model": "ouo:face_flip/blue"},
-		{"predicate": {"custom_model_data": 1001},"model": "ouo:face_flip/yellow"},
-		{"predicate": {"custom_model_data": 1002},"model": "ouo:face_flip/red"},
-		{"predicate": {"custom_model_data": 1003},"model": "ouo:face_flip/orange"}
+		{"predicate": {"custom_model_data": 1001},"model": "ouo:friendly_faceoff/base/blue"},
+		{"predicate": {"custom_model_data": 1002},"model": "ouo:friendly_faceoff/base/red"},
+		{"predicate": {"custom_model_data": 1003},"model": "ouo:friendly_faceoff/base/green"},
+		{"predicate": {"custom_model_data": 1004},"model": "ouo:friendly_faceoff/base/yellow"}
 	]
 }
